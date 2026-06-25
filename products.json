@@ -1,0 +1,3282 @@
+{
+  "MXN73": {
+    "huo_hao": "253160",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 128GB",
+    "color": "藍",
+    "price": 15900
+  },
+  "MXN93": {
+    "huo_hao": "253161",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 128GB",
+    "color": "紫",
+    "price": 15900
+  },
+  "MXN63": {
+    "huo_hao": "253162",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 128GB",
+    "color": "太空灰",
+    "price": 15900
+  },
+  "MXN83": {
+    "huo_hao": "253163",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 128GB",
+    "color": "星光",
+    "price": 15900
+  },
+  "MXNC3": {
+    "huo_hao": "253164",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 256GB",
+    "color": "藍",
+    "price": 19400
+  },
+  "MXNE3": {
+    "huo_hao": "253165",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 256GB",
+    "color": "紫",
+    "price": 19400
+  },
+  "MXNA3": {
+    "huo_hao": "253166",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 256GB",
+    "color": "太空灰",
+    "price": 19400
+  },
+  "MXND3": {
+    "huo_hao": "253167",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 256GB",
+    "color": "星光",
+    "price": 19400
+  },
+  "MYH13": {
+    "huo_hao": "253168",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 512GB",
+    "color": "藍",
+    "price": 26400
+  },
+  "MYH33": {
+    "huo_hao": "253169",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 512GB",
+    "color": "紫",
+    "price": 26400
+  },
+  "MYGY3": {
+    "huo_hao": "253170",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 512GB",
+    "color": "太空灰",
+    "price": 26400
+  },
+  "MYH23": {
+    "huo_hao": "253171",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "Wi-Fi 512GB",
+    "color": "星光",
+    "price": 26400
+  },
+  "MXPP3": {
+    "huo_hao": "253172",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 128GB",
+    "color": "藍",
+    "price": 20900
+  },
+  "MXPR3": {
+    "huo_hao": "253173",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 128GB",
+    "color": "紫",
+    "price": 20900
+  },
+  "MXPN3": {
+    "huo_hao": "253174",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 128GB",
+    "color": "太空灰",
+    "price": 20900
+  },
+  "MXPQ3": {
+    "huo_hao": "253175",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 128GB",
+    "color": "星光",
+    "price": 20900
+  },
+  "MXPW3": {
+    "huo_hao": "253176",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 256GB",
+    "color": "藍",
+    "price": 24400
+  },
+  "MXPY3": {
+    "huo_hao": "253177",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 256GB",
+    "color": "紫",
+    "price": 24400
+  },
+  "MXPT3": {
+    "huo_hao": "253178",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 256GB",
+    "color": "太空灰",
+    "price": 24400
+  },
+  "MXPX3": {
+    "huo_hao": "253179",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 256GB",
+    "color": "星光",
+    "price": 24400
+  },
+  "MYHD3": {
+    "huo_hao": "253180",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 512GB",
+    "color": "藍",
+    "price": 31400
+  },
+  "MYHF3": {
+    "huo_hao": "253181",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 512GB",
+    "color": "紫",
+    "price": 31400
+  },
+  "MYHC3": {
+    "huo_hao": "253182",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 512GB",
+    "color": "太空灰",
+    "price": 31400
+  },
+  "MYHE3": {
+    "huo_hao": "253183",
+    "category": "iPad",
+    "model": "iPad mini 第7代",
+    "spec": "LTE 512GB",
+    "color": "星光",
+    "price": 31400
+  },
+  "MD3Y4": {
+    "huo_hao": "256491",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 128GB",
+    "color": "銀",
+    "price": 10900
+  },
+  "MD4A4": {
+    "huo_hao": "256493",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 128GB",
+    "color": "藍",
+    "price": 10900
+  },
+  "MD4D4": {
+    "huo_hao": "256494",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 128GB",
+    "color": "黃",
+    "price": 10900
+  },
+  "MD4E4": {
+    "huo_hao": "256495",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 128GB",
+    "color": "粉紅",
+    "price": 10900
+  },
+  "MD4G4": {
+    "huo_hao": "256496",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 256GB",
+    "color": "銀",
+    "price": 14400
+  },
+  "MD4H4": {
+    "huo_hao": "256497",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 256GB",
+    "color": "藍",
+    "price": 14400
+  },
+  "MD4J4": {
+    "huo_hao": "256498",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 256GB",
+    "color": "黃",
+    "price": 14400
+  },
+  "MD4P4": {
+    "huo_hao": "256499",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 256GB",
+    "color": "粉紅",
+    "price": 14400
+  },
+  "MD4Q4": {
+    "huo_hao": "256500",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 512GB",
+    "color": "銀",
+    "price": 21400
+  },
+  "MD4Y4": {
+    "huo_hao": "256501",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 512GB",
+    "color": "藍",
+    "price": 21400
+  },
+  "MD5A4": {
+    "huo_hao": "256502",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 512GB",
+    "color": "黃",
+    "price": 21400
+  },
+  "MD5C4": {
+    "huo_hao": "256503",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "Wi-Fi 512GB",
+    "color": "粉紅",
+    "price": 21400
+  },
+  "MD7F4": {
+    "huo_hao": "256504",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 128GB",
+    "color": "銀",
+    "price": 15900
+  },
+  "MD7G4": {
+    "huo_hao": "256505",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 128GB",
+    "color": "藍",
+    "price": 15900
+  },
+  "MD7H4": {
+    "huo_hao": "256506",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 128GB",
+    "color": "黃",
+    "price": 15900
+  },
+  "MD7J4": {
+    "huo_hao": "256507",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 128GB",
+    "color": "粉紅",
+    "price": 15900
+  },
+  "MD7K4": {
+    "huo_hao": "256508",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 256GB",
+    "color": "銀",
+    "price": 19400
+  },
+  "MD7L4": {
+    "huo_hao": "256509",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 256GB",
+    "color": "藍",
+    "price": 19400
+  },
+  "MD7M4": {
+    "huo_hao": "256510",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 256GB",
+    "color": "黃",
+    "price": 19400
+  },
+  "MD7N4": {
+    "huo_hao": "256511",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 256GB",
+    "color": "粉紅",
+    "price": 19400
+  },
+  "MD7P4": {
+    "huo_hao": "256512",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 512GB",
+    "color": "銀",
+    "price": 26400
+  },
+  "MD7Q4": {
+    "huo_hao": "256513",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 512GB",
+    "color": "藍",
+    "price": 26400
+  },
+  "MD7R4": {
+    "huo_hao": "256514",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 512GB",
+    "color": "黃",
+    "price": 26400
+  },
+  "MD7T4": {
+    "huo_hao": "256515",
+    "category": "iPad",
+    "model": "iPad A16",
+    "spec": "5G 512GB",
+    "color": "粉紅",
+    "price": 26400
+  },
+  "MH304": {
+    "huo_hao": "267288",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "太空灰",
+    "price": 19900
+  },
+  "MH314": {
+    "huo_hao": "267289",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "藍",
+    "price": 19900
+  },
+  "MH334": {
+    "huo_hao": "267290",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "星光",
+    "price": 19900
+  },
+  "MH344": {
+    "huo_hao": "267291",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "紫",
+    "price": 19900
+  },
+  "MH354": {
+    "huo_hao": "267292",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "太空灰",
+    "price": 23400
+  },
+  "MH364": {
+    "huo_hao": "267293",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "藍",
+    "price": 23400
+  },
+  "MH374": {
+    "huo_hao": "267294",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "星光",
+    "price": 23400
+  },
+  "MH394": {
+    "huo_hao": "267295",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "紫",
+    "price": 23400
+  },
+  "MH3A4": {
+    "huo_hao": "267296",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "太空灰",
+    "price": 30400
+  },
+  "MH3C4": {
+    "huo_hao": "267297",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "藍",
+    "price": 30400
+  },
+  "MH3D4": {
+    "huo_hao": "267298",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "星光",
+    "price": 30400
+  },
+  "MH3E4": {
+    "huo_hao": "267299",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "紫",
+    "price": 30400
+  },
+  "MH3G4": {
+    "huo_hao": "267300",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "太空灰",
+    "price": 37400
+  },
+  "MH3H4": {
+    "huo_hao": "267301",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "藍",
+    "price": 37400
+  },
+  "MH3J4": {
+    "huo_hao": "267302",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "星光",
+    "price": 37400
+  },
+  "MH3K4": {
+    "huo_hao": "267303",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "紫",
+    "price": 37400
+  },
+  "MH784": {
+    "huo_hao": "267304",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 128GB",
+    "color": "太空灰",
+    "price": 24900
+  },
+  "MH794": {
+    "huo_hao": "267305",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 128GB",
+    "color": "藍",
+    "price": 24900
+  },
+  "MH7A4": {
+    "huo_hao": "267306",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 128GB",
+    "color": "星光",
+    "price": 24900
+  },
+  "MH7C4": {
+    "huo_hao": "267307",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 128GB",
+    "color": "紫",
+    "price": 24900
+  },
+  "MH7D4": {
+    "huo_hao": "267308",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 256GB",
+    "color": "太空灰",
+    "price": 28400
+  },
+  "MH7E4": {
+    "huo_hao": "267309",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 256GB",
+    "color": "藍",
+    "price": 28400
+  },
+  "MH7F4": {
+    "huo_hao": "267310",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 256GB",
+    "color": "星光",
+    "price": 28400
+  },
+  "MH7G4": {
+    "huo_hao": "267311",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 256GB",
+    "color": "紫",
+    "price": 28400
+  },
+  "MH7H4": {
+    "huo_hao": "267312",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 512GB",
+    "color": "太空灰",
+    "price": 35400
+  },
+  "MH7J4": {
+    "huo_hao": "267313",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 512GB",
+    "color": "藍",
+    "price": 35400
+  },
+  "MH7K4": {
+    "huo_hao": "267314",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 512GB",
+    "color": "星光",
+    "price": 35400
+  },
+  "MH7L4": {
+    "huo_hao": "267315",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 512GB",
+    "color": "紫",
+    "price": 35400
+  },
+  "MH7M4": {
+    "huo_hao": "267316",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 1TB",
+    "color": "太空灰",
+    "price": 42400
+  },
+  "MH7N4": {
+    "huo_hao": "267317",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 1TB",
+    "color": "藍",
+    "price": 42400
+  },
+  "MH7P4": {
+    "huo_hao": "267318",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 1TB",
+    "color": "星光",
+    "price": 42400
+  },
+  "MH7Q4": {
+    "huo_hao": "267319",
+    "category": "iPad",
+    "model": "iPad Air 11\" M4",
+    "spec": "5G 1TB",
+    "color": "紫",
+    "price": 42400
+  },
+  "MH5N4": {
+    "huo_hao": "267320",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "太空灰",
+    "price": 26900
+  },
+  "MH5P4": {
+    "huo_hao": "267321",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "藍",
+    "price": 26900
+  },
+  "MH5Q4": {
+    "huo_hao": "267322",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "星光",
+    "price": 26900
+  },
+  "MH5T4": {
+    "huo_hao": "267323",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 128GB",
+    "color": "紫",
+    "price": 26900
+  },
+  "MH5U4": {
+    "huo_hao": "267324",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "太空灰",
+    "price": 30400
+  },
+  "MH5V4": {
+    "huo_hao": "267325",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "藍",
+    "price": 30400
+  },
+  "MH5W4": {
+    "huo_hao": "267326",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "星光",
+    "price": 30400
+  },
+  "MH5X4": {
+    "huo_hao": "267327",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 256GB",
+    "color": "紫",
+    "price": 30400
+  },
+  "MH5Y4": {
+    "huo_hao": "267328",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "太空灰",
+    "price": 37400
+  },
+  "MH604": {
+    "huo_hao": "267329",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "藍",
+    "price": 37400
+  },
+  "MH614": {
+    "huo_hao": "267330",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "星光",
+    "price": 37400
+  },
+  "MH624": {
+    "huo_hao": "267331",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 512GB",
+    "color": "紫",
+    "price": 37400
+  },
+  "MH634": {
+    "huo_hao": "267332",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "太空灰",
+    "price": 44400
+  },
+  "MH644": {
+    "huo_hao": "267333",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "藍",
+    "price": 44400
+  },
+  "MH654": {
+    "huo_hao": "267334",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "星光",
+    "price": 44400
+  },
+  "MHDK4": {
+    "huo_hao": "267335",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "Wi-Fi 1TB",
+    "color": "紫",
+    "price": 44400
+  },
+  "MH9D4": {
+    "huo_hao": "267336",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 128GB",
+    "color": "太空灰",
+    "price": 31900
+  },
+  "MH9E4": {
+    "huo_hao": "267337",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 128GB",
+    "color": "藍",
+    "price": 31900
+  },
+  "MH9F4": {
+    "huo_hao": "267338",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 128GB",
+    "color": "星光",
+    "price": 31900
+  },
+  "MH9G4": {
+    "huo_hao": "267339",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 128GB",
+    "color": "紫",
+    "price": 31900
+  },
+  "MH9H4": {
+    "huo_hao": "267340",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 256GB",
+    "color": "太空灰",
+    "price": 35400
+  },
+  "MH9J4": {
+    "huo_hao": "267341",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 256GB",
+    "color": "藍",
+    "price": 35400
+  },
+  "MH9K4": {
+    "huo_hao": "267342",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 256GB",
+    "color": "星光",
+    "price": 35400
+  },
+  "MH9L4": {
+    "huo_hao": "267343",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 256GB",
+    "color": "紫",
+    "price": 35400
+  },
+  "MH9M4": {
+    "huo_hao": "267344",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 512GB",
+    "color": "太空灰",
+    "price": 42400
+  },
+  "MH9N4": {
+    "huo_hao": "267345",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 512GB",
+    "color": "藍",
+    "price": 42400
+  },
+  "MH9P4": {
+    "huo_hao": "267346",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 512GB",
+    "color": "星光",
+    "price": 42400
+  },
+  "MH9Q4": {
+    "huo_hao": "267347",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 512GB",
+    "color": "紫",
+    "price": 42400
+  },
+  "MH9R4": {
+    "huo_hao": "267348",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 1TB",
+    "color": "太空灰",
+    "price": 49400
+  },
+  "MH9T4": {
+    "huo_hao": "267349",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 1TB",
+    "color": "藍",
+    "price": 49400
+  },
+  "MH9U4": {
+    "huo_hao": "267350",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 1TB",
+    "color": "星光",
+    "price": 49400
+  },
+  "MH9V4": {
+    "huo_hao": "267351",
+    "category": "iPad",
+    "model": "iPad Air 13\" M4",
+    "spec": "5G 1TB",
+    "color": "紫",
+    "price": 49400
+  },
+  "MDWK4": {
+    "huo_hao": "263631",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 256GB",
+    "color": "太空黑",
+    "price": 32900
+  },
+  "MDWL4": {
+    "huo_hao": "263632",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 256GB",
+    "color": "銀",
+    "price": 32900
+  },
+  "MDWM4": {
+    "huo_hao": "263633",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 512GB",
+    "color": "太空黑",
+    "price": 39900
+  },
+  "MDWN4": {
+    "huo_hao": "263634",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 512GB",
+    "color": "銀",
+    "price": 39900
+  },
+  "MDWP4": {
+    "huo_hao": "263635",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 1TB",
+    "color": "太空黑",
+    "price": 53900
+  },
+  "MDWQ4": {
+    "huo_hao": "263636",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 1TB",
+    "color": "銀",
+    "price": 53900
+  },
+  "MDWU4": {
+    "huo_hao": "263637",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 2TB",
+    "color": "太空黑",
+    "price": 67900
+  },
+  "MDWV4": {
+    "huo_hao": "263638",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi 2TB",
+    "color": "銀",
+    "price": 67900
+  },
+  "MDWR4": {
+    "huo_hao": "263639",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi Nano 1TB",
+    "color": "太空黑",
+    "price": 57400
+  },
+  "MDWT4": {
+    "huo_hao": "263640",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi Nano 1TB",
+    "color": "銀",
+    "price": 57400
+  },
+  "MDWW4": {
+    "huo_hao": "263641",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi Nano 2TB",
+    "color": "太空黑",
+    "price": 71400
+  },
+  "MDWX4": {
+    "huo_hao": "263642",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "Wi-Fi Nano 2TB",
+    "color": "銀",
+    "price": 71400
+  },
+  "ME2N4": {
+    "huo_hao": "263643",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 256GB",
+    "color": "太空黑",
+    "price": 39900
+  },
+  "ME2P4": {
+    "huo_hao": "263644",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 256GB",
+    "color": "銀",
+    "price": 39900
+  },
+  "ME2Q4": {
+    "huo_hao": "263645",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 512GB",
+    "color": "太空黑",
+    "price": 46900
+  },
+  "ME2T4": {
+    "huo_hao": "263646",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 512GB",
+    "color": "銀",
+    "price": 46900
+  },
+  "ME2U4": {
+    "huo_hao": "263647",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 1TB",
+    "color": "太空黑",
+    "price": 60900
+  },
+  "ME2V4": {
+    "huo_hao": "263648",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 1TB",
+    "color": "銀",
+    "price": 60900
+  },
+  "ME2Y4": {
+    "huo_hao": "263649",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 2TB",
+    "color": "太空黑",
+    "price": 74900
+  },
+  "ME6A4": {
+    "huo_hao": "263650",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G 2TB",
+    "color": "銀",
+    "price": 74900
+  },
+  "ME2W4": {
+    "huo_hao": "263651",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G Nano 1TB",
+    "color": "太空黑",
+    "price": 64400
+  },
+  "ME2X4": {
+    "huo_hao": "263652",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G Nano 1TB",
+    "color": "銀",
+    "price": 64400
+  },
+  "ME6C4": {
+    "huo_hao": "263653",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G Nano 2TB",
+    "color": "太空黑",
+    "price": 78400
+  },
+  "ME6D4": {
+    "huo_hao": "263654",
+    "category": "iPad",
+    "model": "iPad Pro 11\" M5",
+    "spec": "5G Nano 2TB",
+    "color": "銀",
+    "price": 78400
+  },
+  "MDYJ4": {
+    "huo_hao": "263655",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 256GB",
+    "color": "太空黑",
+    "price": 43900
+  },
+  "MDYK4": {
+    "huo_hao": "263656",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 256GB",
+    "color": "銀",
+    "price": 43900
+  },
+  "MDYL4": {
+    "huo_hao": "263657",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 512GB",
+    "color": "太空黑",
+    "price": 50900
+  },
+  "MDYM4": {
+    "huo_hao": "263658",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 512GB",
+    "color": "銀",
+    "price": 50900
+  },
+  "MDYN4": {
+    "huo_hao": "263659",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 1TB",
+    "color": "太空黑",
+    "price": 64900
+  },
+  "MDYP4": {
+    "huo_hao": "263660",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 1TB",
+    "color": "銀",
+    "price": 64900
+  },
+  "MDYT4": {
+    "huo_hao": "263661",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 2TB",
+    "color": "太空黑",
+    "price": 78900
+  },
+  "MDYU4": {
+    "huo_hao": "263662",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi 2TB",
+    "color": "銀",
+    "price": 78900
+  },
+  "MDYQ4": {
+    "huo_hao": "263663",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi Nano 1TB",
+    "color": "太空黑",
+    "price": 68400
+  },
+  "MDYR4": {
+    "huo_hao": "263664",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi Nano 1TB",
+    "color": "銀",
+    "price": 68400
+  },
+  "MDYV4": {
+    "huo_hao": "263665",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi Nano 2TB",
+    "color": "太空黑",
+    "price": 82400
+  },
+  "MDYW4": {
+    "huo_hao": "263666",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "Wi-Fi Nano 2TB",
+    "color": "銀",
+    "price": 82400
+  },
+  "ME7W4": {
+    "huo_hao": "263667",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 256GB",
+    "color": "太空黑",
+    "price": 50900
+  },
+  "ME7X4": {
+    "huo_hao": "263668",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 256GB",
+    "color": "銀",
+    "price": 50900
+  },
+  "ME7Y4": {
+    "huo_hao": "263669",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 512GB",
+    "color": "太空黑",
+    "price": 57900
+  },
+  "ME8C4": {
+    "huo_hao": "263670",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 512GB",
+    "color": "銀",
+    "price": 57900
+  },
+  "ME8D4": {
+    "huo_hao": "263671",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 1TB",
+    "color": "太空黑",
+    "price": 71900
+  },
+  "ME8F4": {
+    "huo_hao": "263672",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 1TB",
+    "color": "銀",
+    "price": 71900
+  },
+  "ME8J4": {
+    "huo_hao": "263673",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 2TB",
+    "color": "太空黑",
+    "price": 85900
+  },
+  "ME8K4": {
+    "huo_hao": "263674",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G 2TB",
+    "color": "銀",
+    "price": 85900
+  },
+  "ME8G4": {
+    "huo_hao": "263675",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G Nano 1TB",
+    "color": "太空黑",
+    "price": 75400
+  },
+  "ME8H4": {
+    "huo_hao": "263676",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G Nano 1TB",
+    "color": "銀",
+    "price": 75400
+  },
+  "ME8M4": {
+    "huo_hao": "263677",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G Nano 2TB",
+    "color": "太空黑",
+    "price": 89400
+  },
+  "ME8N4": {
+    "huo_hao": "263678",
+    "category": "iPad",
+    "model": "iPad Pro 13\" M5",
+    "spec": "5G Nano 2TB",
+    "color": "銀",
+    "price": 89400
+  },
+  "MHRV4": {
+    "huo_hao": "267282",
+    "category": "iPhone",
+    "model": "iPhone 17e",
+    "spec": "256GB",
+    "color": "黑",
+    "price": 21900
+  },
+  "MHRW4": {
+    "huo_hao": "267283",
+    "category": "iPhone",
+    "model": "iPhone 17e",
+    "spec": "256GB",
+    "color": "白",
+    "price": 21900
+  },
+  "MHRX4": {
+    "huo_hao": "267284",
+    "category": "iPhone",
+    "model": "iPhone 17e",
+    "spec": "256GB",
+    "color": "粉",
+    "price": 21900
+  },
+  "MHRY4": {
+    "huo_hao": "267285",
+    "category": "iPhone",
+    "model": "iPhone 17e",
+    "spec": "512GB",
+    "color": "黑",
+    "price": 28900
+  },
+  "MHU04": {
+    "huo_hao": "267286",
+    "category": "iPhone",
+    "model": "iPhone 17e",
+    "spec": "512GB",
+    "color": "白",
+    "price": 28900
+  },
+  "MHU34": {
+    "huo_hao": "267287",
+    "category": "iPhone",
+    "model": "iPhone 17e",
+    "spec": "512GB",
+    "color": "粉",
+    "price": 28900
+  },
+  "MD1Q4": {
+    "huo_hao": "256229",
+    "category": "iPhone",
+    "model": "iPhone 16e",
+    "spec": "128GB",
+    "color": "黑",
+    "price": 18400
+  },
+  "MD1R4": {
+    "huo_hao": "256230",
+    "category": "iPhone",
+    "model": "iPhone 16e",
+    "spec": "128GB",
+    "color": "白",
+    "price": 18400
+  },
+  "MD1T4": {
+    "huo_hao": "256231",
+    "category": "iPhone",
+    "model": "iPhone 16e",
+    "spec": "256GB",
+    "color": "黑",
+    "price": 21900
+  },
+  "MD1W4": {
+    "huo_hao": "256232",
+    "category": "iPhone",
+    "model": "iPhone 16e",
+    "spec": "256GB",
+    "color": "白",
+    "price": 21900
+  },
+  "MD1X4": {
+    "huo_hao": "256233",
+    "category": "iPhone",
+    "model": "iPhone 16e",
+    "spec": "512GB",
+    "color": "黑",
+    "price": 28900
+  },
+  "MD274": {
+    "huo_hao": "256234",
+    "category": "iPhone",
+    "model": "iPhone 16e",
+    "spec": "512GB",
+    "color": "白",
+    "price": 28900
+  },
+  "MYE73": {
+    "huo_hao": "252083",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "128GB",
+    "color": "黑",
+    "price": 25900
+  },
+  "MYE93": {
+    "huo_hao": "252084",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "128GB",
+    "color": "白",
+    "price": 25900
+  },
+  "MYEA3": {
+    "huo_hao": "252085",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "128GB",
+    "color": "粉紅",
+    "price": 25900
+  },
+  "MYEC3": {
+    "huo_hao": "252086",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "128GB",
+    "color": "湛海藍",
+    "price": 25900
+  },
+  "MYED3": {
+    "huo_hao": "252087",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "128GB",
+    "color": "湖水綠",
+    "price": 25900
+  },
+  "MXVU3": {
+    "huo_hao": "252098",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "128GB",
+    "color": "黑",
+    "price": 29900
+  },
+  "MXVV3": {
+    "huo_hao": "252099",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "128GB",
+    "color": "白",
+    "price": 29900
+  },
+  "MXVW3": {
+    "huo_hao": "252100",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "128GB",
+    "color": "粉紅",
+    "price": 29900
+  },
+  "MXVX3": {
+    "huo_hao": "252101",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "128GB",
+    "color": "湛海藍",
+    "price": 29900
+  },
+  "MXVY3": {
+    "huo_hao": "252102",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "128GB",
+    "color": "湖水綠",
+    "price": 29900
+  },
+  "MXWN3": {
+    "huo_hao": "252103",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "256GB",
+    "color": "黑",
+    "price": 33400
+  },
+  "MXWV3": {
+    "huo_hao": "252104",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "256GB",
+    "color": "白",
+    "price": 33400
+  },
+  "MXY13": {
+    "huo_hao": "252105",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "256GB",
+    "color": "粉紅",
+    "price": 33400
+  },
+  "MXY23": {
+    "huo_hao": "252106",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "256GB",
+    "color": "湛海藍",
+    "price": 33400
+  },
+  "MXY53": {
+    "huo_hao": "252107",
+    "category": "iPhone",
+    "model": "iPhone 16 Plus",
+    "spec": "256GB",
+    "color": "湖水綠",
+    "price": 33400
+  },
+  "MG2L4": {
+    "huo_hao": "262259",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "256GB",
+    "color": "太空黑",
+    "price": 36900
+  },
+  "MG2M4": {
+    "huo_hao": "262260",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "256GB",
+    "color": "雲白",
+    "price": 36900
+  },
+  "MG2N4": {
+    "huo_hao": "262261",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "256GB",
+    "color": "淺金",
+    "price": 36900
+  },
+  "MG2P4": {
+    "huo_hao": "262262",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "256GB",
+    "color": "天藍",
+    "price": 36900
+  },
+  "MG2Q4": {
+    "huo_hao": "262263",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "512GB",
+    "color": "太空黑",
+    "price": 43900
+  },
+  "MG2T4": {
+    "huo_hao": "262264",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "512GB",
+    "color": "雲白",
+    "price": 43900
+  },
+  "MG2U4": {
+    "huo_hao": "262265",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "512GB",
+    "color": "淺金",
+    "price": 43900
+  },
+  "MG2V4": {
+    "huo_hao": "262266",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "512GB",
+    "color": "天藍",
+    "price": 43900
+  },
+  "MG2W4": {
+    "huo_hao": "262267",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "1TB",
+    "color": "太空黑",
+    "price": 50900
+  },
+  "MG2X4": {
+    "huo_hao": "262268",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "1TB",
+    "color": "雲白",
+    "price": 50900
+  },
+  "MG2Y4": {
+    "huo_hao": "262269",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "1TB",
+    "color": "淺金",
+    "price": 50900
+  },
+  "MG304": {
+    "huo_hao": "262270",
+    "category": "iPhone",
+    "model": "iPhone Air",
+    "spec": "1TB",
+    "color": "天藍",
+    "price": 50900
+  },
+  "MG6J4": {
+    "huo_hao": "262249",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "256GB",
+    "color": "黑",
+    "price": 29900
+  },
+  "MG6K4": {
+    "huo_hao": "262250",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "256GB",
+    "color": "白",
+    "price": 29900
+  },
+  "MG6L4": {
+    "huo_hao": "262251",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "256GB",
+    "color": "霧藍",
+    "price": 29900
+  },
+  "MG6M4": {
+    "huo_hao": "262252",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "256GB",
+    "color": "薰衣草紫",
+    "price": 29900
+  },
+  "MG6N4": {
+    "huo_hao": "262253",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "256GB",
+    "color": "鼠尾草綠",
+    "price": 29900
+  },
+  "MG6P4": {
+    "huo_hao": "262254",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "512GB",
+    "color": "黑",
+    "price": 36900
+  },
+  "MG6Q4": {
+    "huo_hao": "262255",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "512GB",
+    "color": "白",
+    "price": 36900
+  },
+  "MG6T4": {
+    "huo_hao": "262256",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "512GB",
+    "color": "霧藍",
+    "price": 36900
+  },
+  "MG6U4": {
+    "huo_hao": "262257",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "512GB",
+    "color": "薰衣草紫",
+    "price": 36900
+  },
+  "MG6V4": {
+    "huo_hao": "262258",
+    "category": "iPhone",
+    "model": "iPhone 17",
+    "spec": "512GB",
+    "color": "鼠尾草綠",
+    "price": 36900
+  },
+  "MG8G4": {
+    "huo_hao": "262271",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "256GB",
+    "color": "銀",
+    "price": 39900
+  },
+  "MG8H4": {
+    "huo_hao": "262272",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "256GB",
+    "color": "宇宙橙",
+    "price": 39900
+  },
+  "MG8J4": {
+    "huo_hao": "262273",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "256GB",
+    "color": "藏藍",
+    "price": 39900
+  },
+  "MG8K4": {
+    "huo_hao": "262274",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "512GB",
+    "color": "銀",
+    "price": 46900
+  },
+  "MG8M4": {
+    "huo_hao": "262275",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "512GB",
+    "color": "宇宙橙",
+    "price": 46900
+  },
+  "MG8N4": {
+    "huo_hao": "262276",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "512GB",
+    "color": "藏藍",
+    "price": 46900
+  },
+  "MG8P4": {
+    "huo_hao": "262277",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "1TB",
+    "color": "銀",
+    "price": 53900
+  },
+  "MG8Q4": {
+    "huo_hao": "262278",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "1TB",
+    "color": "宇宙橙",
+    "price": 53900
+  },
+  "MG8R4": {
+    "huo_hao": "262279",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro",
+    "spec": "1TB",
+    "color": "藏藍",
+    "price": 53900
+  },
+  "MFYM4": {
+    "huo_hao": "262280",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "256GB",
+    "color": "銀",
+    "price": 44900
+  },
+  "MFYN4": {
+    "huo_hao": "262281",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "256GB",
+    "color": "宇宙橙",
+    "price": 44900
+  },
+  "MFYP4": {
+    "huo_hao": "262282",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "256GB",
+    "color": "藏藍",
+    "price": 44900
+  },
+  "MFYQ4": {
+    "huo_hao": "262283",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "512GB",
+    "color": "銀",
+    "price": 51900
+  },
+  "MFYT4": {
+    "huo_hao": "262284",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "512GB",
+    "color": "宇宙橙",
+    "price": 51900
+  },
+  "MFYU4": {
+    "huo_hao": "262285",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "512GB",
+    "color": "藏藍",
+    "price": 51900
+  },
+  "MFYV4": {
+    "huo_hao": "262286",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "1TB",
+    "color": "銀",
+    "price": 58900
+  },
+  "MFYW4": {
+    "huo_hao": "262287",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "1TB",
+    "color": "宇宙橙",
+    "price": 58900
+  },
+  "MFYX4": {
+    "huo_hao": "262288",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "1TB",
+    "color": "藏藍",
+    "price": 58900
+  },
+  "MFYY4": {
+    "huo_hao": "262289",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "2TB",
+    "color": "銀",
+    "price": 72900
+  },
+  "MG004": {
+    "huo_hao": "262290",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "2TB",
+    "color": "宇宙橙",
+    "price": 72900
+  },
+  "MG014": {
+    "huo_hao": "262291",
+    "category": "iPhone",
+    "model": "iPhone 17 Pro Max",
+    "spec": "2TB",
+    "color": "藏藍",
+    "price": 72900
+  },
+  "MDHE4": {
+    "huo_hao": "267369",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/8G/16GB/512GB",
+    "color": "午夜",
+    "price": 35900
+  },
+  "MDH74": {
+    "huo_hao": "267370",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/8G/16GB/512GB",
+    "color": "銀",
+    "price": 35900
+  },
+  "MDHH4": {
+    "huo_hao": "267371",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/8G/16GB/512GB",
+    "color": "天藍",
+    "price": 35900
+  },
+  "MDHA4": {
+    "huo_hao": "267372",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/8G/16GB/512GB",
+    "color": "星光",
+    "price": 35900
+  },
+  "MDHF4": {
+    "huo_hao": "267373",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "午夜",
+    "price": 42900
+  },
+  "MDH84": {
+    "huo_hao": "267374",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "銀",
+    "price": 42900
+  },
+  "MDHJ4": {
+    "huo_hao": "267375",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "天藍",
+    "price": 42900
+  },
+  "MDHC4": {
+    "huo_hao": "267376",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "星光",
+    "price": 42900
+  },
+  "MDHG4": {
+    "huo_hao": "267377",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "午夜",
+    "price": 49900
+  },
+  "MDH94": {
+    "huo_hao": "267378",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "銀",
+    "price": 49900
+  },
+  "MDHK4": {
+    "huo_hao": "267379",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "天藍",
+    "price": 49900
+  },
+  "MDHD4": {
+    "huo_hao": "267380",
+    "category": "Mac",
+    "model": "MacBook Air 13\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "星光",
+    "price": 49900
+  },
+  "MDVH4": {
+    "huo_hao": "267381",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/512GB",
+    "color": "午夜",
+    "price": 42900
+  },
+  "MDV94": {
+    "huo_hao": "267382",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/512GB",
+    "color": "銀",
+    "price": 42900
+  },
+  "MDVQ4": {
+    "huo_hao": "267383",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/512GB",
+    "color": "天藍",
+    "price": 42900
+  },
+  "MDVD4": {
+    "huo_hao": "267384",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/512GB",
+    "color": "星光",
+    "price": 42900
+  },
+  "MDVK4": {
+    "huo_hao": "267385",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "午夜",
+    "price": 49900
+  },
+  "MDVA4": {
+    "huo_hao": "267386",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "銀",
+    "price": 49900
+  },
+  "MDVT4": {
+    "huo_hao": "267387",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "天藍",
+    "price": 49900
+  },
+  "MDVE4": {
+    "huo_hao": "267388",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "星光",
+    "price": 49900
+  },
+  "MDVN4": {
+    "huo_hao": "267389",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "午夜",
+    "price": 56900
+  },
+  "MDVC4": {
+    "huo_hao": "267390",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "銀",
+    "price": 56900
+  },
+  "MDVU4": {
+    "huo_hao": "267391",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "天藍",
+    "price": 56900
+  },
+  "MDVF4": {
+    "huo_hao": "267392",
+    "category": "Mac",
+    "model": "MacBook Air 15\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "星光",
+    "price": 56900
+  },
+  "MDE14": {
+    "huo_hao": "263627",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "黑",
+    "price": 54900
+  },
+  "MDE54": {
+    "huo_hao": "263628",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5/10C/10G/16GB/1TB",
+    "color": "銀",
+    "price": 54900
+  },
+  "MDE34": {
+    "huo_hao": "263629",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "黑",
+    "price": 61900
+  },
+  "MDE64": {
+    "huo_hao": "263630",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5/10C/10G/24GB/1TB",
+    "color": "銀",
+    "price": 61900
+  },
+  "MJ3D4": {
+    "huo_hao": "267394",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5/10C/10G/32GB/1TB",
+    "color": "黑",
+    "price": 68900
+  },
+  "MJ3E4": {
+    "huo_hao": "267393",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5/10C/10G/32GB/1TB",
+    "color": "銀",
+    "price": 68900
+  },
+  "MGDN4": {
+    "huo_hao": "267395",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Pro/15C/16G/24GB/1TB",
+    "color": "黑",
+    "price": 74900
+  },
+  "MGDR4": {
+    "huo_hao": "267396",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Pro/15C/16G/24GB/1TB",
+    "color": "銀",
+    "price": 74900
+  },
+  "MJLV4": {
+    "huo_hao": "267397",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Pro/15C/16G/24GB/2TB",
+    "color": "黑",
+    "price": 88900
+  },
+  "MJLW4": {
+    "huo_hao": "267398",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Pro/15C/16G/24GB/2TB",
+    "color": "銀",
+    "price": 88900
+  },
+  "MGDP4": {
+    "huo_hao": "267399",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Pro/18C/20G/24GB/2TB",
+    "color": "黑",
+    "price": 95900
+  },
+  "MGDT4": {
+    "huo_hao": "267400",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Pro/18C/20G/24GB/2TB",
+    "color": "銀",
+    "price": 95900
+  },
+  "MGDQ4": {
+    "huo_hao": "267401",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Max/18C/32G/36GB/2TB",
+    "color": "黑",
+    "price": 119900
+  },
+  "MGDU4": {
+    "huo_hao": "267402",
+    "category": "Mac",
+    "model": "MacBook Pro 14\"",
+    "spec": "M5Max/18C/32G/36GB/2TB",
+    "color": "銀",
+    "price": 119900
+  },
+  "MGE44": {
+    "huo_hao": "267403",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Pro/18C/20G/24GB/1TB",
+    "color": "黑",
+    "price": 89900
+  },
+  "MGEA4": {
+    "huo_hao": "267404",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Pro/18C/20G/24GB/1TB",
+    "color": "銀",
+    "price": 89900
+  },
+  "MGE64": {
+    "huo_hao": "267405",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Pro/18C/20G/48GB/1TB",
+    "color": "黑",
+    "price": 103900
+  },
+  "MGEC4": {
+    "huo_hao": "267406",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Pro/18C/20G/48GB/1TB",
+    "color": "銀",
+    "price": 103900
+  },
+  "MGE74": {
+    "huo_hao": "267407",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Max/18C/32G/36GB/2TB",
+    "color": "黑",
+    "price": 129900
+  },
+  "MGED4": {
+    "huo_hao": "267408",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Max/18C/32G/36GB/2TB",
+    "color": "銀",
+    "price": 129900
+  },
+  "MGE94": {
+    "huo_hao": "267409",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Max/18C/40G/48GB/2TB",
+    "color": "黑",
+    "price": 147900
+  },
+  "MGEE4": {
+    "huo_hao": "267410",
+    "category": "Mac",
+    "model": "MacBook Pro 16\"",
+    "spec": "M5Max/18C/40G/48GB/2TB",
+    "color": "銀",
+    "price": 147900
+  },
+  "MU9D3": {
+    "huo_hao": "253544",
+    "category": "Mac",
+    "model": "Mac Mini",
+    "spec": "M4/10C/10G/16GB/256GB",
+    "color": "銀",
+    "price": 19900
+  },
+  "MU9E3": {
+    "huo_hao": "253545",
+    "category": "Mac",
+    "model": "Mac Mini",
+    "spec": "M4/10C/10G/16GB/512GB",
+    "color": "銀",
+    "price": 26900
+  },
+  "MCYT4": {
+    "huo_hao": "253546",
+    "category": "Mac",
+    "model": "Mac Mini",
+    "spec": "M4/10C/10G/24GB/512GB",
+    "color": "銀",
+    "price": 33900
+  },
+  "MCX44": {
+    "huo_hao": "253547",
+    "category": "Mac",
+    "model": "Mac Mini",
+    "spec": "M4Pro/12C/16G/24GB/512GB",
+    "color": "銀",
+    "price": 46900
+  },
+  "MWUC3": {
+    "huo_hao": "253474",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/8C/8G/16GB/256GB",
+    "color": "銀",
+    "price": 42900
+  },
+  "MWUE3": {
+    "huo_hao": "253475",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/8C/8G/16GB/256GB",
+    "color": "藍",
+    "price": 42900
+  },
+  "MWUF3": {
+    "huo_hao": "253476",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/8C/8G/16GB/256GB",
+    "color": "綠",
+    "price": 42900
+  },
+  "MWUG3": {
+    "huo_hao": "253477",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/8C/8G/16GB/256GB",
+    "color": "粉紅",
+    "price": 42900
+  },
+  "MWUU3": {
+    "huo_hao": "253478",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/256GB TID",
+    "color": "銀",
+    "price": 49900
+  },
+  "MWUY3": {
+    "huo_hao": "253479",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/256GB TID",
+    "color": "藍",
+    "price": 49900
+  },
+  "MWV13": {
+    "huo_hao": "253480",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/256GB TID",
+    "color": "綠",
+    "price": 49900
+  },
+  "MWV43": {
+    "huo_hao": "253481",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/256GB TID",
+    "color": "粉紅",
+    "price": 49900
+  },
+  "MWUV3": {
+    "huo_hao": "253482",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/512GB TID",
+    "color": "銀",
+    "price": 56900
+  },
+  "MWV03": {
+    "huo_hao": "253483",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/512GB TID",
+    "color": "藍",
+    "price": 56900
+  },
+  "MWV33": {
+    "huo_hao": "253484",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/512GB TID",
+    "color": "綠",
+    "price": 56900
+  },
+  "MWV53": {
+    "huo_hao": "253485",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/512GB TID",
+    "color": "粉紅",
+    "price": 56900
+  },
+  "MCR24": {
+    "huo_hao": "253486",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/24GB/512GB TID",
+    "color": "銀",
+    "price": 63900
+  },
+  "MD2Q4": {
+    "huo_hao": "253487",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/24GB/512GB TID",
+    "color": "藍",
+    "price": 63900
+  },
+  "MD2T4": {
+    "huo_hao": "253488",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/24GB/512GB TID",
+    "color": "綠",
+    "price": 63900
+  },
+  "MD2U4": {
+    "huo_hao": "253489",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/24GB/512GB TID",
+    "color": "粉紅",
+    "price": 63900
+  },
+  "MD3H4": {
+    "huo_hao": "253490",
+    "category": "Mac",
+    "model": "iMac 24\"",
+    "spec": "M4/10C/10G/16GB/256GB Nano",
+    "color": "銀",
+    "price": 56900
+  },
+  "MU963": {
+    "huo_hao": "256657",
+    "category": "Mac",
+    "model": "Mac Studio",
+    "spec": "M4Max/14C/32G/36GB/512GB",
+    "color": "銀",
+    "price": 67900
+  },
+  "MU973": {
+    "huo_hao": "256658",
+    "category": "Mac",
+    "model": "Mac Studio",
+    "spec": "M3Ultra/28C/60G/96GB/1TB",
+    "color": "銀",
+    "price": 137900
+  },
+  "MHFH4": {
+    "huo_hao": "267442",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/256GB",
+    "color": "胭粉",
+    "price": 19900
+  },
+  "MHFD4": {
+    "huo_hao": "267443",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/256GB",
+    "color": "青橘黃",
+    "price": 19900
+  },
+  "MHFF4": {
+    "huo_hao": "267444",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/256GB",
+    "color": "靛青",
+    "price": 19900
+  },
+  "MHFA4": {
+    "huo_hao": "267445",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/256GB",
+    "color": "銀",
+    "price": 19900
+  },
+  "MHFJ4": {
+    "huo_hao": "267446",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/512GB TID",
+    "color": "胭粉",
+    "price": 22900
+  },
+  "MHFE4": {
+    "huo_hao": "267447",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/512GB TID",
+    "color": "青橘黃",
+    "price": 22900
+  },
+  "MHFG4": {
+    "huo_hao": "267448",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/512GB TID",
+    "color": "靛青",
+    "price": 22900
+  },
+  "MHFC4": {
+    "huo_hao": "267449",
+    "category": "Mac",
+    "model": "MacBook Neo",
+    "spec": "A18Pro/6C/5G/8GB/512GB TID",
+    "color": "銀",
+    "price": 22900
+  },
+  "MEH34": {
+    "huo_hao": "262292",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 40mm S/M",
+    "color": "星光",
+    "price": 7900
+  },
+  "MEH54": {
+    "huo_hao": "262293",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 40mm M/L",
+    "color": "星光",
+    "price": 7900
+  },
+  "MEH94": {
+    "huo_hao": "262294",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 40mm S/M",
+    "color": "午夜",
+    "price": 7900
+  },
+  "MEHC4": {
+    "huo_hao": "262295",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 40mm M/L",
+    "color": "午夜",
+    "price": 7900
+  },
+  "MEHG4": {
+    "huo_hao": "262296",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 44mm S/M",
+    "color": "星光",
+    "price": 8900
+  },
+  "MEHJ4": {
+    "huo_hao": "262297",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 44mm M/L",
+    "color": "星光",
+    "price": 8900
+  },
+  "MEHN4": {
+    "huo_hao": "262298",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 44mm S/M",
+    "color": "午夜",
+    "price": 8900
+  },
+  "MEHQ4": {
+    "huo_hao": "262299",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "GPS 44mm M/L",
+    "color": "午夜",
+    "price": 8900
+  },
+  "MEP64": {
+    "huo_hao": "262300",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 40mm S/M",
+    "color": "星光",
+    "price": 9400
+  },
+  "MEP74": {
+    "huo_hao": "262301",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 40mm M/L",
+    "color": "星光",
+    "price": 9400
+  },
+  "MEPC4": {
+    "huo_hao": "262303",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 40mm M/L",
+    "color": "午夜",
+    "price": 9400
+  },
+  "MEQT4": {
+    "huo_hao": "262308",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm S/M",
+    "color": "曜石黑",
+    "price": 12900
+  },
+  "MEQU4": {
+    "huo_hao": "262309",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm M/L",
+    "color": "曜石黑",
+    "price": 12900
+  },
+  "MEQW4": {
+    "huo_hao": "262310",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm S/M",
+    "color": "太空灰",
+    "price": 12900
+  },
+  "MEQX4": {
+    "huo_hao": "262311",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm M/L",
+    "color": "太空灰",
+    "price": 12900
+  },
+  "MEU04": {
+    "huo_hao": "262312",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm S/M",
+    "color": "玫瑰金",
+    "price": 12900
+  },
+  "MEU44": {
+    "huo_hao": "262313",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm M/L",
+    "color": "玫瑰金",
+    "price": 12900
+  },
+  "MEU64": {
+    "huo_hao": "262314",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm S/M",
+    "color": "銀",
+    "price": 12900
+  },
+  "MEU74": {
+    "huo_hao": "262315",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 42mm M/L",
+    "color": "銀",
+    "price": 12900
+  },
+  "MEUW4": {
+    "huo_hao": "262316",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm S/M",
+    "color": "曜石黑",
+    "price": 13900
+  },
+  "MEUX4": {
+    "huo_hao": "262317",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm M/L",
+    "color": "曜石黑",
+    "price": 13900
+  },
+  "MEV04": {
+    "huo_hao": "262318",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm S/M",
+    "color": "太空灰",
+    "price": 13900
+  },
+  "MEV44": {
+    "huo_hao": "262319",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm M/L",
+    "color": "太空灰",
+    "price": 13900
+  },
+  "MEV64": {
+    "huo_hao": "262320",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm S/M",
+    "color": "玫瑰金",
+    "price": 13900
+  },
+  "MEV74": {
+    "huo_hao": "262321",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm M/L",
+    "color": "玫瑰金",
+    "price": 13900
+  },
+  "MEV94": {
+    "huo_hao": "262322",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm S/M",
+    "color": "銀",
+    "price": 13900
+  },
+  "MEVA4": {
+    "huo_hao": "262323",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "GPS 46mm M/L",
+    "color": "銀",
+    "price": 13900
+  },
+  "MF8Y4": {
+    "huo_hao": "262340",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 鈦",
+    "color": "金",
+    "price": 24400
+  },
+  "MFCG4": {
+    "huo_hao": "262345",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm S/M",
+    "color": "玫瑰金",
+    "price": 16900
+  },
+  "MFCP4": {
+    "huo_hao": "262347",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm S/M",
+    "color": "銀",
+    "price": 16900
+  },
+  "MEWH4": {
+    "huo_hao": "262361",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 海洋錶帶",
+    "color": "原色鈦",
+    "price": 26900
+  },
+  "MF0J4": {
+    "huo_hao": "262362",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 海洋錶帶",
+    "color": "黑色鈦",
+    "price": 26900
+  },
+  "MF0V4": {
+    "huo_hao": "262364",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 高山錶環-M",
+    "color": "黑色鈦",
+    "price": 26900
+  },
+  "MF0X4": {
+    "huo_hao": "262365",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 高山錶環-L",
+    "color": "黑色鈦",
+    "price": 26900
+  },
+  "MEWM4": {
+    "huo_hao": "262367",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 高山錶環-M",
+    "color": "原色鈦",
+    "price": 26900
+  },
+  "MEWR4": {
+    "huo_hao": "262369",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 越野錶環-SM",
+    "color": "原色鈦",
+    "price": 26900
+  },
+  "MEWU4": {
+    "huo_hao": "262370",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 越野錶環-ML",
+    "color": "原色鈦",
+    "price": 26900
+  },
+  "MF1D4": {
+    "huo_hao": "262371",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 越野錶環-SM",
+    "color": "黑色鈦",
+    "price": 26900
+  },
+  "MF1H4": {
+    "huo_hao": "262372",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 越野錶環-ML",
+    "color": "黑色鈦",
+    "price": 26900
+  },
+  "MEWW4": {
+    "huo_hao": "262373",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 米蘭錶環-S",
+    "color": "原色鈦",
+    "price": 29900
+  },
+  "MF1N4": {
+    "huo_hao": "262376",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 米蘭錶環-S",
+    "color": "黑色鈦",
+    "price": 29900
+  },
+  "MF1T4": {
+    "huo_hao": "262378",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 米蘭錶環-L",
+    "color": "黑色鈦",
+    "price": 29900
+  },
+  "MEP94": {
+    "huo_hao": "262302",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 40mm S/M",
+    "color": "午夜",
+    "price": 9400
+  },
+  "MEPE4": {
+    "huo_hao": "262304",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 44mm S/M",
+    "color": "星光",
+    "price": 10400
+  },
+  "MEPF4": {
+    "huo_hao": "262305",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 44mm M/L",
+    "color": "星光",
+    "price": 10400
+  },
+  "MEPH4": {
+    "huo_hao": "262306",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 44mm S/M",
+    "color": "午夜",
+    "price": 10400
+  },
+  "MEPJ4": {
+    "huo_hao": "262307",
+    "category": "Apple Watch",
+    "model": "Apple Watch SE 3",
+    "spec": "LTE 44mm M/L",
+    "color": "午夜",
+    "price": 10400
+  },
+  "MF834": {
+    "huo_hao": "262324",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm S/M",
+    "color": "曜石黑",
+    "price": 15900
+  },
+  "MF854": {
+    "huo_hao": "262325",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm M/L",
+    "color": "曜石黑",
+    "price": 15900
+  },
+  "MF8A4": {
+    "huo_hao": "262326",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm S/M",
+    "color": "太空灰",
+    "price": 15900
+  },
+  "MF8C4": {
+    "huo_hao": "262327",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm M/L",
+    "color": "太空灰",
+    "price": 15900
+  },
+  "MF8E4": {
+    "huo_hao": "262328",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm S/M",
+    "color": "玫瑰金",
+    "price": 15900
+  },
+  "MF8F4": {
+    "huo_hao": "262329",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm M/L",
+    "color": "玫瑰金",
+    "price": 15900
+  },
+  "MF8H4": {
+    "huo_hao": "262330",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm S/M",
+    "color": "銀",
+    "price": 15900
+  },
+  "MF8J4": {
+    "huo_hao": "262331",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm M/L",
+    "color": "銀",
+    "price": 15900
+  },
+  "MF8M4": {
+    "huo_hao": "262332",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 原色鈦 S/M",
+    "color": "原色鈦",
+    "price": 22900
+  },
+  "MF8N4": {
+    "huo_hao": "262333",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 原色鈦 M/L",
+    "color": "原色鈦",
+    "price": 22900
+  },
+  "MF8R4": {
+    "huo_hao": "262334",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 石瓦鈦 S/M",
+    "color": "石瓦",
+    "price": 22900
+  },
+  "MF8T4": {
+    "huo_hao": "262335",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 石瓦鈦 M/L",
+    "color": "石瓦",
+    "price": 22900
+  },
+  "MF8W4": {
+    "huo_hao": "262336",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 金色鈦 S/M",
+    "color": "金",
+    "price": 22900
+  },
+  "MF8X4": {
+    "huo_hao": "262337",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 金色鈦 M/L",
+    "color": "金",
+    "price": 22900
+  },
+  "MF8P4": {
+    "huo_hao": "262338",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 原色鈦 米蘭",
+    "color": "原色鈦",
+    "price": 24400
+  },
+  "MF8U4": {
+    "huo_hao": "262339",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 42mm 石瓦鈦 米蘭",
+    "color": "石瓦",
+    "price": 24400
+  },
+  "MFC24": {
+    "huo_hao": "262341",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm S/M",
+    "color": "曜石黑",
+    "price": 16900
+  },
+  "MFC44": {
+    "huo_hao": "262342",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm M/L",
+    "color": "曜石黑",
+    "price": 16900
+  },
+  "MFC94": {
+    "huo_hao": "262343",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm S/M",
+    "color": "太空灰",
+    "price": 16900
+  },
+  "MFCA4": {
+    "huo_hao": "262344",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm M/L",
+    "color": "太空灰",
+    "price": 16900
+  },
+  "MFCJ4": {
+    "huo_hao": "262346",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm M/L",
+    "color": "玫瑰金",
+    "price": 16900
+  },
+  "MFCR4": {
+    "huo_hao": "262348",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm M/L",
+    "color": "銀",
+    "price": 16900
+  },
+  "MFCW4": {
+    "huo_hao": "262349",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 原色鈦 S/M",
+    "color": "原色鈦",
+    "price": 24400
+  },
+  "MFCX4": {
+    "huo_hao": "262350",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 原色鈦 M/L",
+    "color": "原色鈦",
+    "price": 24400
+  },
+  "MFD14": {
+    "huo_hao": "262351",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 石瓦鈦 S/M",
+    "color": "石瓦",
+    "price": 24400
+  },
+  "MFD24": {
+    "huo_hao": "262352",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 石瓦鈦 M/L",
+    "color": "石瓦",
+    "price": 24400
+  },
+  "MFD54": {
+    "huo_hao": "262353",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 金色鈦 S/M",
+    "color": "金",
+    "price": 24400
+  },
+  "MFD64": {
+    "huo_hao": "262354",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 金色鈦 M/L",
+    "color": "金",
+    "price": 24400
+  },
+  "MFCY4": {
+    "huo_hao": "262355",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 原色鈦 米蘭 S/M",
+    "color": "原色鈦",
+    "price": 25900
+  },
+  "MFD04": {
+    "huo_hao": "262356",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 原色鈦 米蘭 M/L",
+    "color": "原色鈦",
+    "price": 25900
+  },
+  "MFD34": {
+    "huo_hao": "262357",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 石瓦鈦 米蘭 S/M",
+    "color": "石瓦",
+    "price": 25900
+  },
+  "MFD44": {
+    "huo_hao": "262358",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 石瓦鈦 米蘭 M/L",
+    "color": "石瓦",
+    "price": 25900
+  },
+  "MFD74": {
+    "huo_hao": "262359",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 金色鈦 米蘭 S/M",
+    "color": "金",
+    "price": 25900
+  },
+  "MFD84": {
+    "huo_hao": "262360",
+    "category": "Apple Watch",
+    "model": "Apple Watch S11",
+    "spec": "LTE 46mm 金色鈦 米蘭 M/L",
+    "color": "金",
+    "price": 25900
+  },
+  "MF0Q4": {
+    "huo_hao": "262363",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 高山錶環-S",
+    "color": "黑色鈦",
+    "price": 26900
+  },
+  "MEWK4": {
+    "huo_hao": "262366",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 高山錶環-S",
+    "color": "原色鈦",
+    "price": 26900
+  },
+  "MEWP4": {
+    "huo_hao": "262368",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 高山錶環-L",
+    "color": "原色鈦",
+    "price": 26900
+  },
+  "MEWY4": {
+    "huo_hao": "262374",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 米蘭錶環-M",
+    "color": "原色鈦",
+    "price": 29900
+  },
+  "MF0E4": {
+    "huo_hao": "262375",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 原色鈦 米蘭錶環-L",
+    "color": "原色鈦",
+    "price": 29900
+  },
+  "MF1Q4": {
+    "huo_hao": "262377",
+    "category": "Apple Watch",
+    "model": "Apple Watch Ultra 3",
+    "spec": "49mm 黑色鈦 米蘭錶環-M",
+    "color": "黑色鈦",
+    "price": 29900
+  },
+  "MYEE3": {
+    "huo_hao": "252088",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "256GB",
+    "color": "黑",
+    "price": 29400
+  },
+  "MYEF3": {
+    "huo_hao": "252089",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "256GB",
+    "color": "白",
+    "price": 29400
+  },
+  "MYEH3": {
+    "huo_hao": "252091",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "256GB",
+    "color": "湛海藍",
+    "price": 29400
+  },
+  "MYEJ3": {
+    "huo_hao": "252092",
+    "category": "iPhone",
+    "model": "iPhone 16",
+    "spec": "256GB",
+    "color": "湖水綠",
+    "price": 29400
+  },
+  "MFEX4": {
+    "huo_hao": "267411",
+    "category": "Mac",
+    "model": "Studio Display",
+    "spec": "標準玻璃 可調斜度",
+    "color": "銀",
+    "price": 52900
+  },
+  "MFEW4": {
+    "huo_hao": "267412",
+    "category": "Mac",
+    "model": "Studio Display",
+    "spec": "標準玻璃 可調高斜度",
+    "color": "銀",
+    "price": 64900
+  },
+  "MC9W4": {
+    "huo_hao": "256516",
+    "category": "iPad",
+    "model": "iPad Air 11\" M3",
+    "spec": "Wi-Fi 128GB",
+    "color": "太空灰",
+    "price": 18200
+  },
+  "MC9Y4": {
+    "huo_hao": "256518",
+    "category": "iPad",
+    "model": "iPad Air 11\" M3",
+    "spec": "Wi-Fi 128GB",
+    "color": "星光",
+    "price": 18200
+  },
+  "MCA04": {
+    "huo_hao": "256519",
+    "category": "iPad",
+    "model": "iPad Air 11\" M3",
+    "spec": "Wi-Fi 128GB",
+    "color": "紫",
+    "price": 18200
+  },
+  "MCA14": {
+    "huo_hao": "256520",
+    "category": "iPad",
+    "model": "iPad Air 11\" M3",
+    "spec": "Wi-Fi 256GB",
+    "color": "太空灰",
+    "price": 21700
+  },
+  "MCA34": {
+    "huo_hao": "256521",
+    "category": "iPad",
+    "model": "iPad Air 11\" M3",
+    "spec": "Wi-Fi 256GB",
+    "color": "藍",
+    "price": 21700
+  },
+  "MCA64": {
+    "huo_hao": "256523",
+    "category": "iPad",
+    "model": "iPad Air 11\" M3",
+    "spec": "Wi-Fi 256GB",
+    "color": "紫",
+    "price": 21700
+  },
+  "MCNJ4": {
+    "huo_hao": "256549",
+    "category": "iPad",
+    "model": "iPad Air 13\" M3",
+    "spec": "Wi-Fi 128GB",
+    "color": "藍",
+    "price": 25200
+  },
+  "MCNL4": {
+    "huo_hao": "256551",
+    "category": "iPad",
+    "model": "iPad Air 13\" M3",
+    "spec": "Wi-Fi 128GB",
+    "color": "紫",
+    "price": 25200
+  },
+  "MCNP4": {
+    "huo_hao": "256553",
+    "category": "iPad",
+    "model": "iPad Air 13\" M3",
+    "spec": "Wi-Fi 256GB",
+    "color": "藍",
+    "price": 28700
+  },
+  "MCNR4": {
+    "huo_hao": "256555",
+    "category": "iPad",
+    "model": "iPad Air 13\" M3",
+    "spec": "Wi-Fi 256GB",
+    "color": "紫",
+    "price": 28700
+  }
+}
