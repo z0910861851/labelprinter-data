@@ -3216,8 +3216,8 @@
     "spec": "LTE 46mm S/M",
     "color": "玫瑰金",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MFCP4": {
     "huo_hao": "262347",
@@ -3226,8 +3226,8 @@
     "spec": "LTE 46mm S/M",
     "color": "銀",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MEWH4": {
     "huo_hao": "262361",
@@ -3406,8 +3406,8 @@
     "spec": "LTE 42mm S/M",
     "color": "曜石黑",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF854": {
     "huo_hao": "262325",
@@ -3416,8 +3416,8 @@
     "spec": "LTE 42mm M/L",
     "color": "曜石黑",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF8A4": {
     "huo_hao": "262326",
@@ -3426,8 +3426,8 @@
     "spec": "LTE 42mm S/M",
     "color": "太空灰",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF8C4": {
     "huo_hao": "262327",
@@ -3436,8 +3436,8 @@
     "spec": "LTE 42mm M/L",
     "color": "太空灰",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF8E4": {
     "huo_hao": "262328",
@@ -3446,8 +3446,8 @@
     "spec": "LTE 42mm S/M",
     "color": "玫瑰金",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF8F4": {
     "huo_hao": "262329",
@@ -3456,8 +3456,8 @@
     "spec": "LTE 42mm M/L",
     "color": "玫瑰金",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF8H4": {
     "huo_hao": "262330",
@@ -3466,8 +3466,8 @@
     "spec": "LTE 42mm S/M",
     "color": "銀",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF8J4": {
     "huo_hao": "262331",
@@ -3476,8 +3476,8 @@
     "spec": "LTE 42mm M/L",
     "color": "銀",
     "price": 15900,
-    "edu_discount": 1500,
-    "edu_price": 14400
+    "edu_discount": 1300,
+    "edu_price": 14600
   },
   "MF8M4": {
     "huo_hao": "262332",
@@ -3566,8 +3566,8 @@
     "spec": "LTE 46mm S/M",
     "color": "曜石黑",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MFC44": {
     "huo_hao": "262342",
@@ -3576,8 +3576,8 @@
     "spec": "LTE 46mm M/L",
     "color": "曜石黑",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MFC94": {
     "huo_hao": "262343",
@@ -3586,8 +3586,8 @@
     "spec": "LTE 46mm S/M",
     "color": "太空灰",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MFCA4": {
     "huo_hao": "262344",
@@ -3596,8 +3596,8 @@
     "spec": "LTE 46mm M/L",
     "color": "太空灰",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MFCJ4": {
     "huo_hao": "262346",
@@ -3606,8 +3606,8 @@
     "spec": "LTE 46mm M/L",
     "color": "玫瑰金",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MFCR4": {
     "huo_hao": "262348",
@@ -3616,8 +3616,8 @@
     "spec": "LTE 46mm M/L",
     "color": "銀",
     "price": 16900,
-    "edu_discount": 1500,
-    "edu_price": 15400
+    "edu_discount": 1300,
+    "edu_price": 15600
   },
   "MFCW4": {
     "huo_hao": "262349",
