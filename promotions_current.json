@@ -1738,6 +1738,30 @@
       "discount": 5994,
       "promo_price": 93906,
       "activity": "iPad Pro 13吋 M5 現折3054起"
+    },
+    "MN873": {
+      "member_price": 6900,
+      "discount": 345,
+      "promo_price": 6555,
+      "activity": "Apple TV 4K"
+    },
+    "MN893": {
+      "member_price": 8500,
+      "discount": 425,
+      "promo_price": 8075,
+      "activity": "Apple TV 4K"
+    },
+    "MDEY4": {
+      "member_price": 10990,
+      "discount": 549,
+      "promo_price": 10441,
+      "activity": "HomePod"
+    },
+    "MDEW4": {
+      "member_price": 10990,
+      "discount": 549,
+      "promo_price": 10441,
+      "activity": "HomePod"
     }
   }
 }
