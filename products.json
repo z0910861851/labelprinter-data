@@ -2625,7 +2625,9 @@
     "model": "Mac Mini",
     "spec": "M4/10C/10G/16GB/256GB",
     "color": "銀",
-    "price": 19900
+    "price": 26900,
+    "edu_discount": 3410,
+    "edu_price": 23490
   },
   "MU9E3": {
     "huo_hao": "253545",
@@ -2633,9 +2635,9 @@
     "model": "Mac Mini",
     "spec": "M4/10C/10G/16GB/512GB",
     "color": "銀",
-    "price": 26900,
+    "price": 33900,
     "edu_discount": 3410,
-    "edu_price": 23490
+    "edu_price": 30490
   },
   "MCYT4": {
     "huo_hao": "253546",
@@ -2643,9 +2645,9 @@
     "model": "Mac Mini",
     "spec": "M4/10C/10G/24GB/512GB",
     "color": "銀",
-    "price": 33900,
+    "price": 40900,
     "edu_discount": 3410,
-    "edu_price": 30490
+    "edu_price": 37490
   },
   "MCX44": {
     "huo_hao": "253547",
@@ -2653,9 +2655,9 @@
     "model": "Mac Mini",
     "spec": "M4Pro/12C/16G/24GB/512GB",
     "color": "銀",
-    "price": 46900,
+    "price": 54900,
     "edu_discount": 3410,
-    "edu_price": 43490
+    "edu_price": 51490
   },
   "MWUC3": {
     "huo_hao": "253474",
@@ -2663,9 +2665,9 @@
     "model": "iMac 24\"",
     "spec": "M4/8C/8G/16GB/256GB",
     "color": "銀",
-    "price": 42900,
+    "price": 49900,
     "edu_discount": 1710,
-    "edu_price": 41190
+    "edu_price": 48190
   },
   "MWUE3": {
     "huo_hao": "253475",
@@ -2673,9 +2675,9 @@
     "model": "iMac 24\"",
     "spec": "M4/8C/8G/16GB/256GB",
     "color": "藍",
-    "price": 42900,
+    "price": 49900,
     "edu_discount": 1710,
-    "edu_price": 41190
+    "edu_price": 48190
   },
   "MWUF3": {
     "huo_hao": "253476",
@@ -2683,9 +2685,9 @@
     "model": "iMac 24\"",
     "spec": "M4/8C/8G/16GB/256GB",
     "color": "綠",
-    "price": 42900,
+    "price": 49900,
     "edu_discount": 1710,
-    "edu_price": 41190
+    "edu_price": 48190
   },
   "MWUG3": {
     "huo_hao": "253477",
@@ -2693,9 +2695,9 @@
     "model": "iMac 24\"",
     "spec": "M4/8C/8G/16GB/256GB",
     "color": "粉紅",
-    "price": 42900,
+    "price": 49900,
     "edu_discount": 1710,
-    "edu_price": 41190
+    "edu_price": 48190
   },
   "MWUU3": {
     "huo_hao": "253478",
@@ -2703,9 +2705,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/256GB TID",
     "color": "銀",
-    "price": 49900,
+    "price": 57900,
     "edu_discount": 3410,
-    "edu_price": 46490
+    "edu_price": 54490
   },
   "MWUY3": {
     "huo_hao": "253479",
@@ -2713,9 +2715,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/256GB TID",
     "color": "藍",
-    "price": 49900,
+    "price": 57900,
     "edu_discount": 3410,
-    "edu_price": 46490
+    "edu_price": 54490
   },
   "MWV13": {
     "huo_hao": "253480",
@@ -2723,9 +2725,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/256GB TID",
     "color": "綠",
-    "price": 49900,
+    "price": 57900,
     "edu_discount": 3410,
-    "edu_price": 46490
+    "edu_price": 54490
   },
   "MWV43": {
     "huo_hao": "253481",
@@ -2733,9 +2735,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/256GB TID",
     "color": "粉紅",
-    "price": 49900,
+    "price": 57900,
     "edu_discount": 3410,
-    "edu_price": 46490
+    "edu_price": 54490
   },
   "MWUV3": {
     "huo_hao": "253482",
@@ -2743,9 +2745,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/512GB TID",
     "color": "銀",
-    "price": 56900,
+    "price": 64900,
     "edu_discount": 3410,
-    "edu_price": 53490
+    "edu_price": 61490
   },
   "MWV03": {
     "huo_hao": "253483",
@@ -2753,9 +2755,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/512GB TID",
     "color": "藍",
-    "price": 56900,
+    "price": 64900,
     "edu_discount": 3410,
-    "edu_price": 53490
+    "edu_price": 61490
   },
   "MWV33": {
     "huo_hao": "253484",
@@ -2763,9 +2765,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/512GB TID",
     "color": "綠",
-    "price": 56900,
+    "price": 64900,
     "edu_discount": 3410,
-    "edu_price": 53490
+    "edu_price": 61490
   },
   "MWV53": {
     "huo_hao": "253485",
@@ -2773,9 +2775,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/512GB TID",
     "color": "粉紅",
-    "price": 56900,
+    "price": 64900,
     "edu_discount": 3410,
-    "edu_price": 53490
+    "edu_price": 61490
   },
   "MCR24": {
     "huo_hao": "253486",
@@ -2783,9 +2785,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/24GB/512GB TID",
     "color": "銀",
-    "price": 63900,
+    "price": 71900,
     "edu_discount": 3410,
-    "edu_price": 60490
+    "edu_price": 68490
   },
   "MD2Q4": {
     "huo_hao": "253487",
@@ -2793,9 +2795,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/24GB/512GB TID",
     "color": "藍",
-    "price": 63900,
+    "price": 71900,
     "edu_discount": 3410,
-    "edu_price": 60490
+    "edu_price": 68490
   },
   "MD2T4": {
     "huo_hao": "253488",
@@ -2803,9 +2805,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/24GB/512GB TID",
     "color": "綠",
-    "price": 63900,
+    "price": 71900,
     "edu_discount": 3410,
-    "edu_price": 60490
+    "edu_price": 68490
   },
   "MD2U4": {
     "huo_hao": "253489",
@@ -2813,9 +2815,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/24GB/512GB TID",
     "color": "粉紅",
-    "price": 63900,
+    "price": 71900,
     "edu_discount": 3410,
-    "edu_price": 60490
+    "edu_price": 68490
   },
   "MD3H4": {
     "huo_hao": "253490",
@@ -2823,7 +2825,9 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/256GB Nano",
     "color": "銀",
-    "price": 56900
+    "price": 64900,
+    "edu_discount": 4110,
+    "edu_price": 60790
   },
   "MU963": {
     "huo_hao": "256657",
@@ -2831,9 +2835,9 @@
     "model": "Mac Studio",
     "spec": "M4Max/14C/32G/36GB/512GB",
     "color": "銀",
-    "price": 67900,
+    "price": 84900,
     "edu_discount": 6810,
-    "edu_price": 61090
+    "edu_price": 78090
   },
   "MU973": {
     "huo_hao": "256658",
@@ -2841,9 +2845,9 @@
     "model": "Mac Studio",
     "spec": "M3Ultra/28C/60G/96GB/1TB",
     "color": "銀",
-    "price": 137900,
+    "price": 184900,
     "edu_discount": 14010,
-    "edu_price": 123890
+    "edu_price": 170890
   },
   "MHFH4": {
     "huo_hao": "267442",
