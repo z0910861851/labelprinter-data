@@ -5,6 +5,330 @@
     "end_date": "2026-07-16"
   },
   "promotions": {
+    "MD1Q4": {
+      "member_price": 18400,
+      "discount": 736,
+      "promo_price": 17664,
+      "activity": "iPhone 16e 現折736"
+    },
+    "MD1R4": {
+      "member_price": 18400,
+      "discount": 736,
+      "promo_price": 17664,
+      "activity": "iPhone 16e 現折736"
+    },
+    "MHRV4": {
+      "member_price": 21900,
+      "discount": 834,
+      "promo_price": 21066,
+      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
+    },
+    "MHRW4": {
+      "member_price": 21900,
+      "discount": 834,
+      "promo_price": 21066,
+      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
+    },
+    "MHRX4": {
+      "member_price": 21900,
+      "discount": 834,
+      "promo_price": 21066,
+      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
+    },
+    "MHRY4": {
+      "member_price": 28900,
+      "discount": 1254,
+      "promo_price": 27646,
+      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
+    },
+    "MHU04": {
+      "member_price": 28900,
+      "discount": 1254,
+      "promo_price": 27646,
+      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
+    },
+    "MHU34": {
+      "member_price": 28900,
+      "discount": 1254,
+      "promo_price": 27646,
+      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
+    },
+    "MYE73": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MYE93": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MYEA3": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MYEE3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MYEF3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MYEH3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MYEJ3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MXVU3": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXVV3": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXWN3": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXWV3": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MG6J4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6K4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6L4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6M4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6N4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6P4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6Q4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6T4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6U4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG6V4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
+    },
+    "MG2L4": {
+      "member_price": 36900,
+      "discount": 2583,
+      "promo_price": 34317,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2P4": {
+      "member_price": 36900,
+      "discount": 2583,
+      "promo_price": 34317,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2T4": {
+      "member_price": 43900,
+      "discount": 3073,
+      "promo_price": 40827,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2V4": {
+      "member_price": 43900,
+      "discount": 3073,
+      "promo_price": 40827,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG8G4": {
+      "member_price": 39900,
+      "discount": 946,
+      "promo_price": 38954,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8H4": {
+      "member_price": 39900,
+      "discount": 946,
+      "promo_price": 38954,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8J4": {
+      "member_price": 39900,
+      "discount": 946,
+      "promo_price": 38954,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8K4": {
+      "member_price": 46900,
+      "discount": 1191,
+      "promo_price": 45709,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8M4": {
+      "member_price": 46900,
+      "discount": 1191,
+      "promo_price": 45709,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8N4": {
+      "member_price": 46900,
+      "discount": 1191,
+      "promo_price": 45709,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8P4": {
+      "member_price": 53900,
+      "discount": 1436,
+      "promo_price": 52464,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8Q4": {
+      "member_price": 53900,
+      "discount": 1436,
+      "promo_price": 52464,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MG8R4": {
+      "member_price": 53900,
+      "discount": 1436,
+      "promo_price": 52464,
+      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
+    },
+    "MFYM4": {
+      "member_price": 44900,
+      "discount": 1046,
+      "promo_price": 43854,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYN4": {
+      "member_price": 44900,
+      "discount": 1046,
+      "promo_price": 43854,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYP4": {
+      "member_price": 44900,
+      "discount": 1046,
+      "promo_price": 43854,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYQ4": {
+      "member_price": 51900,
+      "discount": 1326,
+      "promo_price": 50574,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYT4": {
+      "member_price": 51900,
+      "discount": 1326,
+      "promo_price": 50574,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYU4": {
+      "member_price": 51900,
+      "discount": 1326,
+      "promo_price": 50574,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYV4": {
+      "member_price": 58900,
+      "discount": 1606,
+      "promo_price": 57294,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYW4": {
+      "member_price": 58900,
+      "discount": 1606,
+      "promo_price": 57294,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYX4": {
+      "member_price": 58900,
+      "discount": 1606,
+      "promo_price": 57294,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MFYY4": {
+      "member_price": 72900,
+      "discount": 2166,
+      "promo_price": 70734,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MG004": {
+      "member_price": 72900,
+      "discount": 2166,
+      "promo_price": 70734,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
+    "MG014": {
+      "member_price": 72900,
+      "discount": 2166,
+      "promo_price": 70734,
+      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
+    },
     "MHFH4": {
       "member_price": 22900,
       "discount": 0,
@@ -197,6 +521,102 @@
       "promo_price": 67400,
       "activity": "MacBook Air 15 M5 滿萬送300配件金"
     },
+    "MWUC3": {
+      "member_price": 49900,
+      "discount": 1996,
+      "promo_price": 47904,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWUE3": {
+      "member_price": 49900,
+      "discount": 1996,
+      "promo_price": 47904,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWUF3": {
+      "member_price": 49900,
+      "discount": 1996,
+      "promo_price": 47904,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWUG3": {
+      "member_price": 49900,
+      "discount": 1996,
+      "promo_price": 47904,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWUU3": {
+      "member_price": 57900,
+      "discount": 2316,
+      "promo_price": 55584,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWUY3": {
+      "member_price": 57900,
+      "discount": 2316,
+      "promo_price": 55584,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWV13": {
+      "member_price": 57900,
+      "discount": 2316,
+      "promo_price": 55584,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWV43": {
+      "member_price": 57900,
+      "discount": 2316,
+      "promo_price": 55584,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWUV3": {
+      "member_price": 64900,
+      "discount": 2596,
+      "promo_price": 62304,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWV03": {
+      "member_price": 64900,
+      "discount": 2596,
+      "promo_price": 62304,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWV33": {
+      "member_price": 64900,
+      "discount": 2596,
+      "promo_price": 62304,
+      "activity": "iMac M4 現折4%"
+    },
+    "MWV53": {
+      "member_price": 64900,
+      "discount": 2596,
+      "promo_price": 62304,
+      "activity": "iMac M4 現折4%"
+    },
+    "MCR24": {
+      "member_price": 71900,
+      "discount": 2876,
+      "promo_price": 69024,
+      "activity": "iMac M4 現折4%"
+    },
+    "MD2Q4": {
+      "member_price": 71900,
+      "discount": 2876,
+      "promo_price": 69024,
+      "activity": "iMac M4 現折4%"
+    },
+    "MD2T4": {
+      "member_price": 71900,
+      "discount": 2876,
+      "promo_price": 69024,
+      "activity": "iMac M4 現折4%"
+    },
+    "MD2U4": {
+      "member_price": 71900,
+      "discount": 2876,
+      "promo_price": 69024,
+      "activity": "iMac M4 現折4%"
+    },
     "MDE14": {
       "member_price": 64900,
       "discount": 1947,
@@ -359,102 +779,6 @@
       "promo_price": 184900,
       "activity": "Mac Studio 暫無交期"
     },
-    "MWUC3": {
-      "member_price": 49900,
-      "discount": 1996,
-      "promo_price": 47904,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWUF3": {
-      "member_price": 49900,
-      "discount": 1996,
-      "promo_price": 47904,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWUE3": {
-      "member_price": 49900,
-      "discount": 1996,
-      "promo_price": 47904,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWUG3": {
-      "member_price": 49900,
-      "discount": 1996,
-      "promo_price": 47904,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWUU3": {
-      "member_price": 57900,
-      "discount": 2316,
-      "promo_price": 55584,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWV13": {
-      "member_price": 57900,
-      "discount": 2316,
-      "promo_price": 55584,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWUY3": {
-      "member_price": 57900,
-      "discount": 2316,
-      "promo_price": 55584,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWV43": {
-      "member_price": 57900,
-      "discount": 2316,
-      "promo_price": 55584,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWUV3": {
-      "member_price": 64900,
-      "discount": 2596,
-      "promo_price": 62304,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWV33": {
-      "member_price": 64900,
-      "discount": 2596,
-      "promo_price": 62304,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWV03": {
-      "member_price": 64900,
-      "discount": 2596,
-      "promo_price": 62304,
-      "activity": "iMac M4 現折4%"
-    },
-    "MWV53": {
-      "member_price": 64900,
-      "discount": 2596,
-      "promo_price": 62304,
-      "activity": "iMac M4 現折4%"
-    },
-    "MCR24": {
-      "member_price": 71900,
-      "discount": 2876,
-      "promo_price": 69024,
-      "activity": "iMac M4 現折4%"
-    },
-    "MD2T4": {
-      "member_price": 71900,
-      "discount": 2876,
-      "promo_price": 69024,
-      "activity": "iMac M4 現折4%"
-    },
-    "MD2Q4": {
-      "member_price": 71900,
-      "discount": 2876,
-      "promo_price": 69024,
-      "activity": "iMac M4 現折4%"
-    },
-    "MD2U4": {
-      "member_price": 71900,
-      "discount": 2876,
-      "promo_price": 69024,
-      "activity": "iMac M4 現折4%"
-    },
     "MXN73": {
       "member_price": 19900,
       "discount": 995,
@@ -474,30 +798,6 @@
       "activity": "iPad mini 7th 現折995起"
     },
     "MXN83": {
-      "member_price": 19900,
-      "discount": 995,
-      "promo_price": 18905,
-      "activity": "iPad mini 7th 現折995起"
-    },
-    "MXPP3": {
-      "member_price": 19900,
-      "discount": 995,
-      "promo_price": 18905,
-      "activity": "iPad mini 7th 現折995起"
-    },
-    "MXPR3": {
-      "member_price": 19900,
-      "discount": 995,
-      "promo_price": 18905,
-      "activity": "iPad mini 7th 現折995起"
-    },
-    "MXPN3": {
-      "member_price": 19900,
-      "discount": 995,
-      "promo_price": 18905,
-      "activity": "iPad mini 7th 現折995起"
-    },
-    "MXPQ3": {
       "member_price": 19900,
       "discount": 995,
       "promo_price": 18905,
@@ -527,30 +827,6 @@
       "promo_price": 22230,
       "activity": "iPad mini 7th 現折995起"
     },
-    "MXPW3": {
-      "member_price": 23400,
-      "discount": 1170,
-      "promo_price": 22230,
-      "activity": "iPad mini 7th 現折995起"
-    },
-    "MXPY3": {
-      "member_price": 23400,
-      "discount": 1170,
-      "promo_price": 22230,
-      "activity": "iPad mini 7th 現折995起"
-    },
-    "MXPT3": {
-      "member_price": 23400,
-      "discount": 1170,
-      "promo_price": 22230,
-      "activity": "iPad mini 7th 現折995起"
-    },
-    "MXPX3": {
-      "member_price": 23400,
-      "discount": 1170,
-      "promo_price": 22230,
-      "activity": "iPad mini 7th 現折995起"
-    },
     "MYH13": {
       "member_price": 30400,
       "discount": 1520,
@@ -575,28 +851,76 @@
       "promo_price": 28880,
       "activity": "iPad mini 7th 現折995起"
     },
+    "MXPP3": {
+      "member_price": 24900,
+      "discount": 1245,
+      "promo_price": 23655,
+      "activity": "iPad mini 7th 現折995起"
+    },
+    "MXPR3": {
+      "member_price": 24900,
+      "discount": 1245,
+      "promo_price": 23655,
+      "activity": "iPad mini 7th 現折995起"
+    },
+    "MXPN3": {
+      "member_price": 24900,
+      "discount": 1245,
+      "promo_price": 23655,
+      "activity": "iPad mini 7th 現折995起"
+    },
+    "MXPQ3": {
+      "member_price": 24900,
+      "discount": 1245,
+      "promo_price": 23655,
+      "activity": "iPad mini 7th 現折995起"
+    },
+    "MXPW3": {
+      "member_price": 28400,
+      "discount": 1420,
+      "promo_price": 26980,
+      "activity": "iPad mini 7th 現折995起"
+    },
+    "MXPY3": {
+      "member_price": 28400,
+      "discount": 1420,
+      "promo_price": 26980,
+      "activity": "iPad mini 7th 現折995起"
+    },
+    "MXPT3": {
+      "member_price": 28400,
+      "discount": 1420,
+      "promo_price": 26980,
+      "activity": "iPad mini 7th 現折995起"
+    },
+    "MXPX3": {
+      "member_price": 28400,
+      "discount": 1420,
+      "promo_price": 26980,
+      "activity": "iPad mini 7th 現折995起"
+    },
     "MYHD3": {
-      "member_price": 30400,
-      "discount": 1520,
-      "promo_price": 28880,
+      "member_price": 35400,
+      "discount": 1770,
+      "promo_price": 33630,
       "activity": "iPad mini 7th 現折995起"
     },
     "MYHF3": {
-      "member_price": 30400,
-      "discount": 1520,
-      "promo_price": 28880,
+      "member_price": 35400,
+      "discount": 1770,
+      "promo_price": 33630,
       "activity": "iPad mini 7th 現折995起"
     },
     "MYHC3": {
-      "member_price": 30400,
-      "discount": 1520,
-      "promo_price": 28880,
+      "member_price": 35400,
+      "discount": 1770,
+      "promo_price": 33630,
       "activity": "iPad mini 7th 現折995起"
     },
     "MYHE3": {
-      "member_price": 30400,
-      "discount": 1520,
-      "promo_price": 28880,
+      "member_price": 35400,
+      "discount": 1770,
+      "promo_price": 33630,
       "activity": "iPad mini 7th 現折995起"
     },
     "MD3Y4": {
@@ -618,30 +942,6 @@
       "activity": "iPad 11吋 現折745起"
     },
     "MD4E4": {
-      "member_price": 14900,
-      "discount": 745,
-      "promo_price": 14155,
-      "activity": "iPad 11吋 現折745起"
-    },
-    "MD7F4": {
-      "member_price": 14900,
-      "discount": 745,
-      "promo_price": 14155,
-      "activity": "iPad 11吋 現折745起"
-    },
-    "MD7G4": {
-      "member_price": 14900,
-      "discount": 745,
-      "promo_price": 14155,
-      "activity": "iPad 11吋 現折745起"
-    },
-    "MD7H4": {
-      "member_price": 14900,
-      "discount": 745,
-      "promo_price": 14155,
-      "activity": "iPad 11吋 現折745起"
-    },
-    "MD7J4": {
       "member_price": 14900,
       "discount": 745,
       "promo_price": 14155,
@@ -671,30 +971,6 @@
       "promo_price": 17480,
       "activity": "iPad 11吋 現折745起"
     },
-    "MD7K4": {
-      "member_price": 18400,
-      "discount": 920,
-      "promo_price": 17480,
-      "activity": "iPad 11吋 現折745起"
-    },
-    "MD7L4": {
-      "member_price": 18400,
-      "discount": 920,
-      "promo_price": 17480,
-      "activity": "iPad 11吋 現折745起"
-    },
-    "MD7M4": {
-      "member_price": 18400,
-      "discount": 920,
-      "promo_price": 17480,
-      "activity": "iPad 11吋 現折745起"
-    },
-    "MD7N4": {
-      "member_price": 18400,
-      "discount": 920,
-      "promo_price": 17480,
-      "activity": "iPad 11吋 現折745起"
-    },
     "MD4Q4": {
       "member_price": 25400,
       "discount": 1270,
@@ -719,28 +995,76 @@
       "promo_price": 24130,
       "activity": "iPad 11吋 現折745起"
     },
+    "MD7F4": {
+      "member_price": 19900,
+      "discount": 995,
+      "promo_price": 18905,
+      "activity": "iPad 11吋 現折745起"
+    },
+    "MD7G4": {
+      "member_price": 19900,
+      "discount": 995,
+      "promo_price": 18905,
+      "activity": "iPad 11吋 現折745起"
+    },
+    "MD7H4": {
+      "member_price": 19900,
+      "discount": 995,
+      "promo_price": 18905,
+      "activity": "iPad 11吋 現折745起"
+    },
+    "MD7J4": {
+      "member_price": 19900,
+      "discount": 995,
+      "promo_price": 18905,
+      "activity": "iPad 11吋 現折745起"
+    },
+    "MD7K4": {
+      "member_price": 23400,
+      "discount": 1170,
+      "promo_price": 22230,
+      "activity": "iPad 11吋 現折745起"
+    },
+    "MD7L4": {
+      "member_price": 23400,
+      "discount": 1170,
+      "promo_price": 22230,
+      "activity": "iPad 11吋 現折745起"
+    },
+    "MD7M4": {
+      "member_price": 23400,
+      "discount": 1170,
+      "promo_price": 22230,
+      "activity": "iPad 11吋 現折745起"
+    },
+    "MD7N4": {
+      "member_price": 23400,
+      "discount": 1170,
+      "promo_price": 22230,
+      "activity": "iPad 11吋 現折745起"
+    },
     "MD7P4": {
-      "member_price": 25400,
-      "discount": 1270,
-      "promo_price": 24130,
+      "member_price": 30400,
+      "discount": 1520,
+      "promo_price": 28880,
       "activity": "iPad 11吋 現折745起"
     },
     "MD7Q4": {
-      "member_price": 25400,
-      "discount": 1270,
-      "promo_price": 24130,
+      "member_price": 30400,
+      "discount": 1520,
+      "promo_price": 28880,
       "activity": "iPad 11吋 現折745起"
     },
     "MD7R4": {
-      "member_price": 25400,
-      "discount": 1270,
-      "promo_price": 24130,
+      "member_price": 30400,
+      "discount": 1520,
+      "promo_price": 28880,
       "activity": "iPad 11吋 現折745起"
     },
     "MD7T4": {
-      "member_price": 25400,
-      "discount": 1270,
-      "promo_price": 24130,
+      "member_price": 30400,
+      "discount": 1520,
+      "promo_price": 28880,
       "activity": "iPad 11吋 現折745起"
     },
     "MH304": {
@@ -762,30 +1086,6 @@
       "activity": "iPad Air 11吋 M4 現折1245起"
     },
     "MH344": {
-      "member_price": 24900,
-      "discount": 1245,
-      "promo_price": 23655,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH784": {
-      "member_price": 24900,
-      "discount": 1245,
-      "promo_price": 23655,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH794": {
-      "member_price": 24900,
-      "discount": 1245,
-      "promo_price": 23655,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7A4": {
-      "member_price": 24900,
-      "discount": 1245,
-      "promo_price": 23655,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7C4": {
       "member_price": 24900,
       "discount": 1245,
       "promo_price": 23655,
@@ -815,30 +1115,6 @@
       "promo_price": 26980,
       "activity": "iPad Air 11吋 M4 現折1245起"
     },
-    "MH7D4": {
-      "member_price": 28400,
-      "discount": 1420,
-      "promo_price": 26980,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7E4": {
-      "member_price": 28400,
-      "discount": 1420,
-      "promo_price": 26980,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7F4": {
-      "member_price": 28400,
-      "discount": 1420,
-      "promo_price": 26980,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7G4": {
-      "member_price": 28400,
-      "discount": 1420,
-      "promo_price": 26980,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
     "MH3A4": {
       "member_price": 35400,
       "discount": 1770,
@@ -858,30 +1134,6 @@
       "activity": "iPad Air 11吋 M4 現折1245起"
     },
     "MH3E4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7H4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7J4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7K4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 11吋 M4 現折1245起"
-    },
-    "MH7L4": {
       "member_price": 35400,
       "discount": 1770,
       "promo_price": 33630,
@@ -909,6 +1161,78 @@
       "member_price": 45900,
       "discount": 2295,
       "promo_price": 43605,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH784": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH794": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7A4": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7C4": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7D4": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7E4": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7F4": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7G4": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7H4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7J4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7K4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
+      "activity": "iPad Air 11吋 M4 現折1245起"
+    },
+    "MH7L4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
       "activity": "iPad Air 11吋 M4 現折1245起"
     },
     "MH7M4": {
@@ -959,30 +1283,6 @@
       "promo_price": 30305,
       "activity": "iPad Air 13吋 M4 現折1595起"
     },
-    "MH9D4": {
-      "member_price": 31900,
-      "discount": 1595,
-      "promo_price": 30305,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9E4": {
-      "member_price": 31900,
-      "discount": 1595,
-      "promo_price": 30305,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9F4": {
-      "member_price": 31900,
-      "discount": 1595,
-      "promo_price": 30305,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9G4": {
-      "member_price": 31900,
-      "discount": 1595,
-      "promo_price": 30305,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
     "MH5U4": {
       "member_price": 35400,
       "discount": 1770,
@@ -1002,30 +1302,6 @@
       "activity": "iPad Air 13吋 M4 現折1595起"
     },
     "MH5X4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9H4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9J4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9K4": {
-      "member_price": 35400,
-      "discount": 1770,
-      "promo_price": 33630,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9L4": {
       "member_price": 35400,
       "discount": 1770,
       "promo_price": 33630,
@@ -1055,30 +1331,6 @@
       "promo_price": 40280,
       "activity": "iPad Air 13吋 M4 現折1595起"
     },
-    "MH9M4": {
-      "member_price": 42400,
-      "discount": 2120,
-      "promo_price": 40280,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9N4": {
-      "member_price": 42400,
-      "discount": 2120,
-      "promo_price": 40280,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9P4": {
-      "member_price": 42400,
-      "discount": 2120,
-      "promo_price": 40280,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
-    "MH9Q4": {
-      "member_price": 42400,
-      "discount": 2120,
-      "promo_price": 40280,
-      "activity": "iPad Air 13吋 M4 現折1595起"
-    },
     "MH634": {
       "member_price": 52900,
       "discount": 2645,
@@ -1101,6 +1353,78 @@
       "member_price": 52900,
       "discount": 2645,
       "promo_price": 50255,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9D4": {
+      "member_price": 36900,
+      "discount": 1845,
+      "promo_price": 35055,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9E4": {
+      "member_price": 36900,
+      "discount": 1845,
+      "promo_price": 35055,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9F4": {
+      "member_price": 36900,
+      "discount": 1845,
+      "promo_price": 35055,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9G4": {
+      "member_price": 36900,
+      "discount": 1845,
+      "promo_price": 35055,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9H4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9J4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9K4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9L4": {
+      "member_price": 40400,
+      "discount": 2020,
+      "promo_price": 38380,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9M4": {
+      "member_price": 47400,
+      "discount": 2370,
+      "promo_price": 45030,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9N4": {
+      "member_price": 47400,
+      "discount": 2370,
+      "promo_price": 45030,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9P4": {
+      "member_price": 47400,
+      "discount": 2370,
+      "promo_price": 45030,
+      "activity": "iPad Air 13吋 M4 現折1595起"
+    },
+    "MH9Q4": {
+      "member_price": 47400,
+      "discount": 2370,
+      "promo_price": 45030,
       "activity": "iPad Air 13吋 M4 現折1595起"
     },
     "MH9R4": {
@@ -1139,18 +1463,6 @@
       "promo_price": 37506,
       "activity": "iPad Pro 11吋 M5 現折2394起"
     },
-    "ME2N4": {
-      "member_price": 39900,
-      "discount": 2394,
-      "promo_price": 37506,
-      "activity": "iPad Pro 11吋 M5 現折2394起"
-    },
-    "ME2P4": {
-      "member_price": 39900,
-      "discount": 2394,
-      "promo_price": 37506,
-      "activity": "iPad Pro 11吋 M5 現折2394起"
-    },
     "MDWM4": {
       "member_price": 46900,
       "discount": 2814,
@@ -1158,18 +1470,6 @@
       "activity": "iPad Pro 11吋 M5 現折2394起"
     },
     "MDWN4": {
-      "member_price": 46900,
-      "discount": 2814,
-      "promo_price": 44086,
-      "activity": "iPad Pro 11吋 M5 現折2394起"
-    },
-    "ME2Q4": {
-      "member_price": 46900,
-      "discount": 2814,
-      "promo_price": 44086,
-      "activity": "iPad Pro 11吋 M5 現折2394起"
-    },
-    "ME2T4": {
       "member_price": 46900,
       "discount": 2814,
       "promo_price": 44086,
@@ -1221,6 +1521,30 @@
       "member_price": 81900,
       "discount": 4914,
       "promo_price": 76986,
+      "activity": "iPad Pro 11吋 M5 現折2394起"
+    },
+    "ME2N4": {
+      "member_price": 46900,
+      "discount": 2814,
+      "promo_price": 44086,
+      "activity": "iPad Pro 11吋 M5 現折2394起"
+    },
+    "ME2P4": {
+      "member_price": 46900,
+      "discount": 2814,
+      "promo_price": 44086,
+      "activity": "iPad Pro 11吋 M5 現折2394起"
+    },
+    "ME2Q4": {
+      "member_price": 53900,
+      "discount": 3234,
+      "promo_price": 50666,
+      "activity": "iPad Pro 11吋 M5 現折2394起"
+    },
+    "ME2T4": {
+      "member_price": 53900,
+      "discount": 3234,
+      "promo_price": 50666,
       "activity": "iPad Pro 11吋 M5 現折2394起"
     },
     "ME2U4": {
@@ -1283,18 +1607,6 @@
       "promo_price": 47846,
       "activity": "iPad Pro 13吋 M5 現折3054起"
     },
-    "ME7W4": {
-      "member_price": 50900,
-      "discount": 3054,
-      "promo_price": 47846,
-      "activity": "iPad Pro 13吋 M5 現折3054起"
-    },
-    "ME7X4": {
-      "member_price": 50900,
-      "discount": 3054,
-      "promo_price": 47846,
-      "activity": "iPad Pro 13吋 M5 現折3054起"
-    },
     "MDYL4": {
       "member_price": 57900,
       "discount": 3474,
@@ -1302,18 +1614,6 @@
       "activity": "iPad Pro 13吋 M5 現折3054起"
     },
     "MDYM4": {
-      "member_price": 57900,
-      "discount": 3474,
-      "promo_price": 54426,
-      "activity": "iPad Pro 13吋 M5 現折3054起"
-    },
-    "ME7Y4": {
-      "member_price": 57900,
-      "discount": 3474,
-      "promo_price": 54426,
-      "activity": "iPad Pro 13吋 M5 現折3054起"
-    },
-    "ME8C4": {
       "member_price": 57900,
       "discount": 3474,
       "promo_price": 54426,
@@ -1367,6 +1667,30 @@
       "promo_price": 87326,
       "activity": "iPad Pro 13吋 M5 現折3054起"
     },
+    "ME7W4": {
+      "member_price": 57900,
+      "discount": 3474,
+      "promo_price": 54426,
+      "activity": "iPad Pro 13吋 M5 現折3054起"
+    },
+    "ME7X4": {
+      "member_price": 57900,
+      "discount": 3474,
+      "promo_price": 54426,
+      "activity": "iPad Pro 13吋 M5 現折3054起"
+    },
+    "ME7Y4": {
+      "member_price": 64900,
+      "discount": 3894,
+      "promo_price": 61006,
+      "activity": "iPad Pro 13吋 M5 現折3054起"
+    },
+    "ME8C4": {
+      "member_price": 64900,
+      "discount": 3894,
+      "promo_price": 61006,
+      "activity": "iPad Pro 13吋 M5 現折3054起"
+    },
     "ME8D4": {
       "member_price": 78900,
       "discount": 4734,
@@ -1414,30 +1738,6 @@
       "discount": 5994,
       "promo_price": 93906,
       "activity": "iPad Pro 13吋 M5 現折3054起"
-    },
-    "MN873": {
-      "member_price": 6900,
-      "discount": 345,
-      "promo_price": 6555,
-      "activity": "Apple TV 4K"
-    },
-    "MN893": {
-      "member_price": 8500,
-      "discount": 425,
-      "promo_price": 8075,
-      "activity": "Apple TV 4K"
-    },
-    "MDEY4": {
-      "member_price": 10990,
-      "discount": 549,
-      "promo_price": 10441,
-      "activity": "HomePod"
-    },
-    "MDEW4": {
-      "member_price": 10990,
-      "discount": 549,
-      "promo_price": 10441,
-      "activity": "HomePod"
     }
   }
 }
