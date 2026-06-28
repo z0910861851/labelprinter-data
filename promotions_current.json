@@ -2062,6 +2062,108 @@
       "discount": 2392,
       "promo_price": 27508,
       "activity": "Apple Watch Ultra 3 現折2152起"
+    },
+    "MYEC3": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MYED3": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "iPhone 16 現折1295起（256G售完為止）"
+    },
+    "MXVW3": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXVX3": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXVY3": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXY13": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXY23": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MXY53": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "iPhone 16 Plus 現折5%"
+    },
+    "MG2M4": {
+      "member_price": 36900,
+      "discount": 2583,
+      "promo_price": 34317,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2N4": {
+      "member_price": 36900,
+      "discount": 2583,
+      "promo_price": 34317,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2Q4": {
+      "member_price": 43900,
+      "discount": 3073,
+      "promo_price": 40827,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2U4": {
+      "member_price": 43900,
+      "discount": 3073,
+      "promo_price": 40827,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2W4": {
+      "member_price": 50900,
+      "discount": 3563,
+      "promo_price": 47337,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2X4": {
+      "member_price": 50900,
+      "discount": 3563,
+      "promo_price": 47337,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG2Y4": {
+      "member_price": 50900,
+      "discount": 3563,
+      "promo_price": 47337,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MG304": {
+      "member_price": 50900,
+      "discount": 3563,
+      "promo_price": 47337,
+      "activity": "iPhone Air 現折2583起（售完為止）"
+    },
+    "MD3H4": {
+      "member_price": 64900,
+      "discount": 2596,
+      "promo_price": 62304,
+      "activity": "iMac M4 現折4%"
     }
   }
 }
