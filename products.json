@@ -3926,5 +3926,37 @@
     "spec": "Wi-Fi 256GB",
     "color": "紫",
     "price": 28700
+  },
+  "MN873": {
+    "huo_hao": "234915",
+    "category": "其他",
+    "model": "Apple TV 4K",
+    "spec": "64GB",
+    "color": "-",
+    "price": 6900
+  },
+  "MN893": {
+    "huo_hao": "234916",
+    "category": "其他",
+    "model": "Apple TV 4K",
+    "spec": "128GB",
+    "color": "-",
+    "price": 8500
+  },
+  "MDEY4": {
+    "huo_hao": "264479",
+    "category": "其他",
+    "model": "HomePod",
+    "spec": "",
+    "color": "白色",
+    "price": 10990
+  },
+  "MDEW4": {
+    "huo_hao": "264478",
+    "category": "其他",
+    "model": "HomePod",
+    "spec": "",
+    "color": "午夜色",
+    "price": 10990
   }
 }
