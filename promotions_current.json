@@ -1762,6 +1762,528 @@
       "discount": 549,
       "promo_price": 10441,
       "activity": "HomePod"
+    },
+    "MEH34": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEH54": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEH94": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEHC4": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEHG4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEHJ4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEHN4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEHQ4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEP64": {
+      "member_price": 9400,
+      "discount": 658,
+      "promo_price": 8742,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEP74": {
+      "member_price": 9400,
+      "discount": 658,
+      "promo_price": 8742,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEPC4": {
+      "member_price": 9400,
+      "discount": 658,
+      "promo_price": 8742,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEQT4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEQU4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEQW4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEQX4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEU04": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEU44": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEU64": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEU74": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEUW4": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEUX4": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEV04": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEV44": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEV64": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEV74": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEV94": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEVA4": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8Y4": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCG4": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCP4": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MEWH4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF0J4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF0V4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF0X4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEWM4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEWR4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEWU4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF1D4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF1H4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEWW4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF1N4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF1T4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEP94": {
+      "member_price": 9400,
+      "discount": 658,
+      "promo_price": 8742,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEPE4": {
+      "member_price": 10400,
+      "discount": 728,
+      "promo_price": 9672,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEPF4": {
+      "member_price": 10400,
+      "discount": 728,
+      "promo_price": 9672,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEPH4": {
+      "member_price": 10400,
+      "discount": 728,
+      "promo_price": 9672,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MEPJ4": {
+      "member_price": 10400,
+      "discount": 728,
+      "promo_price": 9672,
+      "activity": "Apple Watch SE 3 現折7%（553起）"
+    },
+    "MF834": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF854": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8A4": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8C4": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8E4": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8F4": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8H4": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8J4": {
+      "member_price": 15900,
+      "discount": 1113,
+      "promo_price": 14787,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8M4": {
+      "member_price": 22900,
+      "discount": 1603,
+      "promo_price": 21297,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8N4": {
+      "member_price": 22900,
+      "discount": 1603,
+      "promo_price": 21297,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8R4": {
+      "member_price": 22900,
+      "discount": 1603,
+      "promo_price": 21297,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8T4": {
+      "member_price": 22900,
+      "discount": 1603,
+      "promo_price": 21297,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8W4": {
+      "member_price": 22900,
+      "discount": 1603,
+      "promo_price": 21297,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8X4": {
+      "member_price": 22900,
+      "discount": 1603,
+      "promo_price": 21297,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8P4": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF8U4": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFC24": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFC44": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFC94": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCA4": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCJ4": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCR4": {
+      "member_price": 16900,
+      "discount": 1183,
+      "promo_price": 15717,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCW4": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCX4": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD14": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD24": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD54": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD64": {
+      "member_price": 24400,
+      "discount": 1708,
+      "promo_price": 22692,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFCY4": {
+      "member_price": 25900,
+      "discount": 1813,
+      "promo_price": 24087,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD04": {
+      "member_price": 25900,
+      "discount": 1813,
+      "promo_price": 24087,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD34": {
+      "member_price": 25900,
+      "discount": 1813,
+      "promo_price": 24087,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD44": {
+      "member_price": 25900,
+      "discount": 1813,
+      "promo_price": 24087,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD74": {
+      "member_price": 25900,
+      "discount": 1813,
+      "promo_price": 24087,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MFD84": {
+      "member_price": 25900,
+      "discount": 1813,
+      "promo_price": 24087,
+      "activity": "Apple Watch S11 現折7%（903起）"
+    },
+    "MF0Q4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEWK4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEWP4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MEWY4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF0E4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
+    },
+    "MF1Q4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "Apple Watch Ultra 3 現折8%（2152起）"
     }
   }
 }
