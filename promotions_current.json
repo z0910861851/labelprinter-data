@@ -1,334 +1,10 @@
 {
   "campaign": {
-    "name": "0626 操盤",
-    "start_date": "2026-06-26",
-    "end_date": "2026-07-16"
+    "name": "0702 操盤",
+    "start_date": "2026-07-02",
+    "end_date": "2026-07-23"
   },
   "promotions": {
-    "MD1Q4": {
-      "member_price": 18400,
-      "discount": 736,
-      "promo_price": 17664,
-      "activity": "iPhone 16e 現折736"
-    },
-    "MD1R4": {
-      "member_price": 18400,
-      "discount": 736,
-      "promo_price": 17664,
-      "activity": "iPhone 16e 現折736"
-    },
-    "MHRV4": {
-      "member_price": 21900,
-      "discount": 834,
-      "promo_price": 21066,
-      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
-    },
-    "MHRW4": {
-      "member_price": 21900,
-      "discount": 834,
-      "promo_price": 21066,
-      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
-    },
-    "MHRX4": {
-      "member_price": 21900,
-      "discount": 834,
-      "promo_price": 21066,
-      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
-    },
-    "MHRY4": {
-      "member_price": 28900,
-      "discount": 1254,
-      "promo_price": 27646,
-      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
-    },
-    "MHU04": {
-      "member_price": 28900,
-      "discount": 1254,
-      "promo_price": 27646,
-      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
-    },
-    "MHU34": {
-      "member_price": 28900,
-      "discount": 1254,
-      "promo_price": 27646,
-      "activity": "iPhone 17e 現折834起・送市價1280保護貼"
-    },
-    "MYE73": {
-      "member_price": 25900,
-      "discount": 1295,
-      "promo_price": 24605,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MYE93": {
-      "member_price": 25900,
-      "discount": 1295,
-      "promo_price": 24605,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MYEA3": {
-      "member_price": 25900,
-      "discount": 1295,
-      "promo_price": 24605,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MYEE3": {
-      "member_price": 29400,
-      "discount": 3401,
-      "promo_price": 25999,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MYEF3": {
-      "member_price": 29400,
-      "discount": 3401,
-      "promo_price": 25999,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MYEH3": {
-      "member_price": 29400,
-      "discount": 3401,
-      "promo_price": 25999,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MYEJ3": {
-      "member_price": 29400,
-      "discount": 3401,
-      "promo_price": 25999,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MXVU3": {
-      "member_price": 29900,
-      "discount": 1495,
-      "promo_price": 28405,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXVV3": {
-      "member_price": 29900,
-      "discount": 1495,
-      "promo_price": 28405,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXWN3": {
-      "member_price": 33400,
-      "discount": 1670,
-      "promo_price": 31730,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXWV3": {
-      "member_price": 33400,
-      "discount": 1670,
-      "promo_price": 31730,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MG6J4": {
-      "member_price": 29900,
-      "discount": 1463,
-      "promo_price": 28437,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6K4": {
-      "member_price": 29900,
-      "discount": 1463,
-      "promo_price": 28437,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6L4": {
-      "member_price": 29900,
-      "discount": 1463,
-      "promo_price": 28437,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6M4": {
-      "member_price": 29900,
-      "discount": 1463,
-      "promo_price": 28437,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6N4": {
-      "member_price": 29900,
-      "discount": 1463,
-      "promo_price": 28437,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6P4": {
-      "member_price": 36900,
-      "discount": 1918,
-      "promo_price": 34982,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6Q4": {
-      "member_price": 36900,
-      "discount": 1918,
-      "promo_price": 34982,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6T4": {
-      "member_price": 36900,
-      "discount": 1918,
-      "promo_price": 34982,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6U4": {
-      "member_price": 36900,
-      "discount": 1918,
-      "promo_price": 34982,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG6V4": {
-      "member_price": 36900,
-      "discount": 1918,
-      "promo_price": 34982,
-      "activity": "iPhone 17 現折1464起・送市價1290保護貼"
-    },
-    "MG2L4": {
-      "member_price": 36900,
-      "discount": 2583,
-      "promo_price": 34317,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
-    "MG2P4": {
-      "member_price": 36900,
-      "discount": 2583,
-      "promo_price": 34317,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
-    "MG2T4": {
-      "member_price": 43900,
-      "discount": 3073,
-      "promo_price": 40827,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
-    "MG2V4": {
-      "member_price": 43900,
-      "discount": 3073,
-      "promo_price": 40827,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
-    "MG8G4": {
-      "member_price": 39900,
-      "discount": 946,
-      "promo_price": 38954,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8H4": {
-      "member_price": 39900,
-      "discount": 946,
-      "promo_price": 38954,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8J4": {
-      "member_price": 39900,
-      "discount": 946,
-      "promo_price": 38954,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8K4": {
-      "member_price": 46900,
-      "discount": 1191,
-      "promo_price": 45709,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8M4": {
-      "member_price": 46900,
-      "discount": 1191,
-      "promo_price": 45709,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8N4": {
-      "member_price": 46900,
-      "discount": 1191,
-      "promo_price": 45709,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8P4": {
-      "member_price": 53900,
-      "discount": 1436,
-      "promo_price": 52464,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8Q4": {
-      "member_price": 53900,
-      "discount": 1436,
-      "promo_price": 52464,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MG8R4": {
-      "member_price": 53900,
-      "discount": 1436,
-      "promo_price": 52464,
-      "activity": "iPhone 17 Pro 現折946起・送市價790保護貼"
-    },
-    "MFYM4": {
-      "member_price": 44900,
-      "discount": 1046,
-      "promo_price": 43854,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYN4": {
-      "member_price": 44900,
-      "discount": 1046,
-      "promo_price": 43854,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYP4": {
-      "member_price": 44900,
-      "discount": 1046,
-      "promo_price": 43854,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYQ4": {
-      "member_price": 51900,
-      "discount": 1326,
-      "promo_price": 50574,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYT4": {
-      "member_price": 51900,
-      "discount": 1326,
-      "promo_price": 50574,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYU4": {
-      "member_price": 51900,
-      "discount": 1326,
-      "promo_price": 50574,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYV4": {
-      "member_price": 58900,
-      "discount": 1606,
-      "promo_price": 57294,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYW4": {
-      "member_price": 58900,
-      "discount": 1606,
-      "promo_price": 57294,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYX4": {
-      "member_price": 58900,
-      "discount": 1606,
-      "promo_price": 57294,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MFYY4": {
-      "member_price": 72900,
-      "discount": 2166,
-      "promo_price": 70734,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MG004": {
-      "member_price": 72900,
-      "discount": 2166,
-      "promo_price": 70734,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
-    "MG014": {
-      "member_price": 72900,
-      "discount": 2166,
-      "promo_price": 70734,
-      "activity": "iPhone 17 Pro Max 現折1046起・送市價1499保護殼貼組"
-    },
     "MHFH4": {
       "member_price": 22900,
       "discount": 0,
@@ -1763,383 +1439,545 @@
       "promo_price": 10441,
       "activity": "HomePod"
     },
-    "MEH34": {
-      "member_price": 7900,
-      "discount": 553,
-      "promo_price": 7347,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEH54": {
-      "member_price": 7900,
-      "discount": 553,
-      "promo_price": 7347,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEH94": {
-      "member_price": 7900,
-      "discount": 553,
-      "promo_price": 7347,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEHC4": {
-      "member_price": 7900,
-      "discount": 553,
-      "promo_price": 7347,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEHG4": {
-      "member_price": 8900,
-      "discount": 623,
-      "promo_price": 8277,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEHJ4": {
-      "member_price": 8900,
-      "discount": 623,
-      "promo_price": 8277,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEHN4": {
-      "member_price": 8900,
-      "discount": 623,
-      "promo_price": 8277,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEHQ4": {
-      "member_price": 8900,
-      "discount": 623,
-      "promo_price": 8277,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEP64": {
-      "member_price": 9400,
-      "discount": 658,
-      "promo_price": 8742,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEP74": {
-      "member_price": 9400,
-      "discount": 658,
-      "promo_price": 8742,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEP94": {
-      "member_price": 9400,
-      "discount": 658,
-      "promo_price": 8742,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEPC4": {
-      "member_price": 9400,
-      "discount": 658,
-      "promo_price": 8742,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEPE4": {
-      "member_price": 10400,
-      "discount": 728,
-      "promo_price": 9672,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEPF4": {
-      "member_price": 10400,
-      "discount": 728,
-      "promo_price": 9672,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEPH4": {
-      "member_price": 10400,
-      "discount": 728,
-      "promo_price": 9672,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEPJ4": {
-      "member_price": 10400,
-      "discount": 728,
-      "promo_price": 9672,
-      "activity": "Apple Watch SE 3 現折553起"
-    },
-    "MEQT4": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEQU4": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEQW4": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEQX4": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEU04": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEU44": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEU64": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEU74": {
-      "member_price": 12900,
-      "discount": 903,
-      "promo_price": 11997,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEUW4": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEUX4": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEV04": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEV44": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEV64": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEV74": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEV94": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEVA4": {
-      "member_price": 13900,
-      "discount": 973,
-      "promo_price": 12927,
-      "activity": "Apple Watch S11 現折903起"
-    },
-    "MEWH4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF0J4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF0Q4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF0V4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF0X4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MEWK4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MEWM4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MEWP4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MEWR4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MEWU4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF1D4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF1H4": {
-      "member_price": 26900,
-      "discount": 2152,
-      "promo_price": 24748,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MEWW4": {
-      "member_price": 29900,
-      "discount": 2392,
-      "promo_price": 27508,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MEWY4": {
-      "member_price": 29900,
-      "discount": 2392,
-      "promo_price": 27508,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF0E4": {
-      "member_price": 29900,
-      "discount": 2392,
-      "promo_price": 27508,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF1N4": {
-      "member_price": 29900,
-      "discount": 2392,
-      "promo_price": 27508,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF1Q4": {
-      "member_price": 29900,
-      "discount": 2392,
-      "promo_price": 27508,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MF1T4": {
-      "member_price": 29900,
-      "discount": 2392,
-      "promo_price": 27508,
-      "activity": "Apple Watch Ultra 3 現折2152起"
-    },
-    "MYEC3": {
-      "member_price": 25900,
-      "discount": 1295,
-      "promo_price": 24605,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MYED3": {
-      "member_price": 25900,
-      "discount": 1295,
-      "promo_price": 24605,
-      "activity": "iPhone 16 現折1295起（256G售完為止）"
-    },
-    "MXVW3": {
-      "member_price": 29900,
-      "discount": 1495,
-      "promo_price": 28405,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXVX3": {
-      "member_price": 29900,
-      "discount": 1495,
-      "promo_price": 28405,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXVY3": {
-      "member_price": 29900,
-      "discount": 1495,
-      "promo_price": 28405,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXY13": {
-      "member_price": 33400,
-      "discount": 1670,
-      "promo_price": 31730,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXY23": {
-      "member_price": 33400,
-      "discount": 1670,
-      "promo_price": 31730,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MXY53": {
-      "member_price": 33400,
-      "discount": 1670,
-      "promo_price": 31730,
-      "activity": "iPhone 16 Plus 現折5%"
-    },
-    "MG2M4": {
-      "member_price": 36900,
-      "discount": 2583,
-      "promo_price": 34317,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
-    "MG2N4": {
-      "member_price": 36900,
-      "discount": 2583,
-      "promo_price": 34317,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
-    "MG2Q4": {
-      "member_price": 43900,
-      "discount": 3073,
-      "promo_price": 40827,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
-    "MG2U4": {
-      "member_price": 43900,
-      "discount": 3073,
-      "promo_price": 40827,
-      "activity": "iPhone Air 現折2583起（售完為止）"
-    },
     "MD3H4": {
       "member_price": 64900,
       "discount": 2596,
       "promo_price": 62304,
       "activity": "iMac M4 現折4%"
+    },
+    "MD1Q4": {
+      "member_price": 18400,
+      "discount": 736,
+      "promo_price": 17664,
+      "activity": "現折736"
+    },
+    "MD1R4": {
+      "member_price": 18400,
+      "discount": 736,
+      "promo_price": 17664,
+      "activity": "現折736"
+    },
+    "MHRV4": {
+      "member_price": 21900,
+      "discount": 834,
+      "promo_price": 21066,
+      "activity": "現折834起再送市價1280保護貼"
+    },
+    "MHRW4": {
+      "member_price": 21900,
+      "discount": 834,
+      "promo_price": 21066,
+      "activity": "現折834起再送市價1280保護貼"
+    },
+    "MHRX4": {
+      "member_price": 21900,
+      "discount": 834,
+      "promo_price": 21066,
+      "activity": "現折834起再送市價1280保護貼"
+    },
+    "MHRY4": {
+      "member_price": 28900,
+      "discount": 1254,
+      "promo_price": 27646,
+      "activity": "現折834起再送市價1280保護貼"
+    },
+    "MHU04": {
+      "member_price": 28900,
+      "discount": 1254,
+      "promo_price": 27646,
+      "activity": "現折834起再送市價1280保護貼"
+    },
+    "MHU34": {
+      "member_price": 28900,
+      "discount": 1254,
+      "promo_price": 27646,
+      "activity": "現折834起再送市價1280保護貼"
+    },
+    "MYE73": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "現折1295起(256G售完為止)"
+    },
+    "MYE93": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "現折1295起(256G售完為止)"
+    },
+    "MYEA3": {
+      "member_price": 25900,
+      "discount": 1295,
+      "promo_price": 24605,
+      "activity": "現折1295起(256G售完為止)"
+    },
+    "MYEE3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "現折1295起(256G售完為止)"
+    },
+    "MYEF3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "現折1295起(256G售完為止)"
+    },
+    "MYEH3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "現折1295起(256G售完為止)"
+    },
+    "MYEJ3": {
+      "member_price": 29400,
+      "discount": 3401,
+      "promo_price": 25999,
+      "activity": "現折1295起(256G售完為止)"
+    },
+    "MXVU3": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "現折5%"
+    },
+    "MXVV3": {
+      "member_price": 29900,
+      "discount": 1495,
+      "promo_price": 28405,
+      "activity": "現折5%"
+    },
+    "MXWN3": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "現折5%"
+    },
+    "MXWV3": {
+      "member_price": 33400,
+      "discount": 1670,
+      "promo_price": 31730,
+      "activity": "現折5%"
+    },
+    "MG6J4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6K4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6L4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6M4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6N4": {
+      "member_price": 29900,
+      "discount": 1463,
+      "promo_price": 28437,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6P4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6Q4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6T4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6U4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG6V4": {
+      "member_price": 36900,
+      "discount": 1918,
+      "promo_price": 34982,
+      "activity": "現折1464起再送市價1290保護貼"
+    },
+    "MG2L4": {
+      "member_price": 36900,
+      "discount": 2583,
+      "promo_price": 34317,
+      "activity": "現折2583起(售完為止)"
+    },
+    "MG2P4": {
+      "member_price": 36900,
+      "discount": 2583,
+      "promo_price": 34317,
+      "activity": "現折2583起(售完為止)"
+    },
+    "MG2T4": {
+      "member_price": 43900,
+      "discount": 3073,
+      "promo_price": 40827,
+      "activity": "現折2583起(售完為止)"
+    },
+    "MG2V4": {
+      "member_price": 43900,
+      "discount": 3073,
+      "promo_price": 40827,
+      "activity": "現折2583起(售完為止)"
+    },
+    "MG8G4": {
+      "member_price": 39900,
+      "discount": 946,
+      "promo_price": 38954,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8H4": {
+      "member_price": 39900,
+      "discount": 946,
+      "promo_price": 38954,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8J4": {
+      "member_price": 39900,
+      "discount": 946,
+      "promo_price": 38954,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8K4": {
+      "member_price": 46900,
+      "discount": 1191,
+      "promo_price": 45709,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8M4": {
+      "member_price": 46900,
+      "discount": 1191,
+      "promo_price": 45709,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8N4": {
+      "member_price": 46900,
+      "discount": 1191,
+      "promo_price": 45709,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8P4": {
+      "member_price": 53900,
+      "discount": 1436,
+      "promo_price": 52464,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8Q4": {
+      "member_price": 53900,
+      "discount": 1436,
+      "promo_price": 52464,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MG8R4": {
+      "member_price": 53900,
+      "discount": 1436,
+      "promo_price": 52464,
+      "activity": "現折946起再送市價790保護貼"
+    },
+    "MFYM4": {
+      "member_price": 44900,
+      "discount": 1046,
+      "promo_price": 43854,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYN4": {
+      "member_price": 44900,
+      "discount": 1046,
+      "promo_price": 43854,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYP4": {
+      "member_price": 44900,
+      "discount": 1046,
+      "promo_price": 43854,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYQ4": {
+      "member_price": 51900,
+      "discount": 1326,
+      "promo_price": 50574,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYT4": {
+      "member_price": 51900,
+      "discount": 1326,
+      "promo_price": 50574,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYU4": {
+      "member_price": 51900,
+      "discount": 1326,
+      "promo_price": 50574,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYV4": {
+      "member_price": 58900,
+      "discount": 1606,
+      "promo_price": 57294,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYW4": {
+      "member_price": 58900,
+      "discount": 1606,
+      "promo_price": 57294,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYX4": {
+      "member_price": 58900,
+      "discount": 1606,
+      "promo_price": 57294,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MFYY4": {
+      "member_price": 72900,
+      "discount": 2166,
+      "promo_price": 70734,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MG004": {
+      "member_price": 72900,
+      "discount": 2166,
+      "promo_price": 70734,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MG014": {
+      "member_price": 72900,
+      "discount": 2166,
+      "promo_price": 70734,
+      "activity": "現折1046起再送市價1499保護殼貼組"
+    },
+    "MEH34": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "現折553起"
+    },
+    "MEH54": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "現折553起"
+    },
+    "MEH94": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "現折553起"
+    },
+    "MEHC4": {
+      "member_price": 7900,
+      "discount": 553,
+      "promo_price": 7347,
+      "activity": "現折553起"
+    },
+    "MEHG4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "現折553起"
+    },
+    "MEHJ4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "現折553起"
+    },
+    "MEHN4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "現折553起"
+    },
+    "MEHQ4": {
+      "member_price": 8900,
+      "discount": 623,
+      "promo_price": 8277,
+      "activity": "現折553起"
+    },
+    "MEP64": {
+      "member_price": 9400,
+      "discount": 658,
+      "promo_price": 8742,
+      "activity": "現折553起"
+    },
+    "MEQT4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "現折903起"
+    },
+    "MEQU4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "現折903起"
+    },
+    "MEQW4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "現折903起"
+    },
+    "MEQX4": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "現折903起"
+    },
+    "MEU04": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "現折903起"
+    },
+    "MEU44": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "現折903起"
+    },
+    "MEU64": {
+      "member_price": 12900,
+      "discount": 903,
+      "promo_price": 11997,
+      "activity": "現折903起"
+    },
+    "MEUW4": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEUX4": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEV04": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEV44": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEV64": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEV74": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEV94": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEVA4": {
+      "member_price": 13900,
+      "discount": 973,
+      "promo_price": 12927,
+      "activity": "現折903起"
+    },
+    "MEWH4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MF0J4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MF0V4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MEWM4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MEWR4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MEWU4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MF1D4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MF1H4": {
+      "member_price": 26900,
+      "discount": 2152,
+      "promo_price": 24748,
+      "activity": "現折2152起"
+    },
+    "MEWW4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "現折2152起"
+    },
+    "MF1N4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "現折2152起"
+    },
+    "MF1T4": {
+      "member_price": 29900,
+      "discount": 2392,
+      "promo_price": 27508,
+      "activity": "現折2152起"
     }
   }
 }
