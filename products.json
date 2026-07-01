@@ -3051,9 +3051,7 @@
     "model": "iMac 24\"",
     "spec": "M4/10C/10G/16GB/256GB Nano",
     "color": "銀",
-    "price": 64900,
-    "edu_discount": 4110,
-    "edu_price": 60790
+    "price": 64900
   },
   "MU963": {
     "huo_hao": "256657",
@@ -3085,7 +3083,8 @@
     "color": "胭粉",
     "price": 22900,
     "edu_price": 19900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MHFD4": {
     "huo_hao": "267443",
@@ -3095,7 +3094,8 @@
     "color": "青橘黃",
     "price": 22900,
     "edu_price": 19900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MHFF4": {
     "huo_hao": "267444",
@@ -3105,7 +3105,8 @@
     "color": "靛青",
     "price": 22900,
     "edu_price": 19900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MHFA4": {
     "huo_hao": "267445",
@@ -3115,7 +3116,8 @@
     "color": "銀",
     "price": 22900,
     "edu_price": 19900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MHFJ4": {
     "huo_hao": "267446",
@@ -3125,7 +3127,8 @@
     "color": "胭粉",
     "price": 25900,
     "edu_price": 22900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MHFE4": {
     "huo_hao": "267447",
@@ -3135,7 +3138,8 @@
     "color": "青橘黃",
     "price": 25900,
     "edu_price": 22900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MHFG4": {
     "huo_hao": "267448",
@@ -3145,7 +3149,8 @@
     "color": "靛青",
     "price": 25900,
     "edu_price": 22900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MHFC4": {
     "huo_hao": "267449",
@@ -3155,7 +3160,8 @@
     "color": "銀",
     "price": 25900,
     "edu_price": 22900,
-    "edu_discount": 3000
+    "edu_discount": 3000,
+    "edu_code": "200056"
   },
   "MEH34": {
     "huo_hao": "262292",
